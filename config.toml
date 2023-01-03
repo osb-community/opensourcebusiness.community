@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Open Source Business Metrics'
+theme = 'terminal'
+
+[languages.en.params.logo]
+  logoText = "Open Source Business Metrics"
+  logoHomeLink = "/"
+
+[params]
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "blue"
