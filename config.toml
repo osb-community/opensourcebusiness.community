@@ -14,6 +14,6 @@ theme = 'terminal'
   showLastUpdated = true
 
 [[languages.en.menu.main]]
-  identifier = "handbook"
-  name = "Handbook"
+  identifier = "guide"
+  name = "Read the Guide"
   url = "/posts/open-source-business-metrics-handbook/"
