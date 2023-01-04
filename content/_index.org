@@ -1,0 +1,8 @@
+#+framed: true
+
+* Welcome to the home page of the Open Source Business Metrics community!
+
+  Have a look around at the posts below, or check out these other resources:
+
+  - [[https://github.com/scarf-sh/oss-metrics][Contribute to this site on GitHub]]
+  - View the resource list (link needed)

@@ -12,3 +12,8 @@ theme = 'terminal'
   centerTheme = true
   fullWidthTheme = false
   showLastUpdated = true
+
+[[languages.en.menu.main]]
+  identifier = "handbook"
+  name = "Handbook"
+  url = "/posts/open-source-business-metrics-handbook/"
