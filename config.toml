@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://opensourcebusiness.org/'
 languageCode = 'en-us'
 title = 'Open Source Business Metrics'
 theme = 'terminal'
@@ -8,5 +8,7 @@ theme = 'terminal'
   logoHomeLink = "/"
 
 [params]
-  # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
+  centerTheme = true
+  fullWidthTheme = false
+  showLastUpdated = true
