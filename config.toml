@@ -1,4 +1,4 @@
-baseURL = 'https://opensourcebusiness.org/'
+baseURL = 'https://opensourcemetrics.org/'
 languageCode = 'en-us'
 title = 'Open Source Business Metrics'
 theme = 'terminal'
@@ -17,3 +17,8 @@ theme = 'terminal'
   identifier = "guide"
   name = "Read the Guide"
   url = "/posts/open-source-business-metrics-handbook/"
+  
+[[languages.en.menu.main]]
+  identifier = "metrics"
+  name = "Explore Metrics"
+  url = "/metrics/contributor_metrics/"

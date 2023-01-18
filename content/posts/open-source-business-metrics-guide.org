@@ -2,7 +2,7 @@
 #+author: Matt Yonkovit
 #+lastmod: 2023-01-03
 #+categories[]: metrics open-source business
-# #+cover: /images/1000000000000318000003112025EB7DED0EE1C9.png
+# #+cover: ./images/1000000000000318000003112025EB7DED0EE1C9.png
 
 
 Open source has become one of the most recognized movements in
