@@ -1,0 +1,65 @@
+{{ define "main" }}
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+  </h1>
+  <div style="display:table;clear:both;width:100%">
+    <div style="display:table-row;">
+    <div style="display:table-cell;float:left;width=50%;padding=10px">
+		   <div style="font-weight:bold;">Metric: </div>{{ .Params.MetricName | markdownify }}
+		   <div style="font-weight:bold;">Metric Group: </div>{{ .Params.MetricGroup | markdownify }}
+		   <div style="font-weight:bold;">Funnel Phase: </div>{{ .Params.FunnelPhase | markdownify }}
+		   <div style="font-weight:bold;">Last Updated: </div>{{ .Params.lastmod | markdownify }}
+
+	</div>
+    <div style="display:table-cell;float:Right;width=50%;padding=10px">
+
+		 <iframe width="385" height="220" src="{{ .Params.MetricYoutube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		 
+	</div>
+  </div>
+  <p></p>
+  {{ if .Params.tags }}
+    <span class="post-tags">
+      {{ range .Params.tags }}
+      #<a href="{{ (urlize (printf "tags/%s/" .)) | absLangURL }}">{{ . }}</a>&nbsp;
+      {{ end }}
+    </span>
+  {{ end }}
+  {{ partial "cover.html" . }}
+
+  {{ if (.Params.Toc | default .Site.Params.Toc) }}
+    <div class="table-of-contents">
+      <h2>
+        {{ (.Params.TocTitle | default .Site.Params.TocTitle) | default "Table of Contents" }}
+      </h2>
+      {{ .TableOfContents }}
+    </div>
+  {{ end }}
+
+  {{ .Scratch.Set "mykey" .Params.MetricKey }}
+  {{ partial "metric_description.html" . }}
+  {{ partial "metric_examples.html" . }}
+  {{ partial "metric_goal.html" . }}
+  {{ partial "metric_forumulas.html" . }}
+  {{ partial "metric_links.html" . }}
+  {{ partial "metric_tools.html" . }}
+
+
+  <div class="post-content">
+    {{- with .Content -}}
+      <div>
+        {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` | safeHTML }}
+      </div>
+    {{- end -}}
+  </div>
+
+  {{ if eq .Type $.Site.Params.contentTypeName }}
+    {{ partial "posts_pagination.html" . }}
+  {{ end }}
+
+  {{ if not (.Params.hideComments | default false) }}
+    {{ partial "comments.html" . }}
+  {{ end }}
+</article>
+{{ end }}

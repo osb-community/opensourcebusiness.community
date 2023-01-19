@@ -1,0 +1,41 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+
+<style>
+  td {  
+	border: 0;
+	vertical-align: top;
+	width: 50%;
+  }
+  tr {  
+    border: 0;
+	
+  }
+  table { 
+    border: 0;
+  }
+  div.title {
+    text-align: center;
+	color: #23B0FF;
+	font-display: swap;
+    font-family: 'Fira Code';
+    font-style:  normal;
+    font-weight: 800;
+    src: url("../fonts/FiraCode-Bold.woff") format("woff");
+  }
+
+</style>
+
+<h1><a class="post-title" href="/posts/open-source-business-metrics-guide/">Read The Full Guide Now!</a></h1><br>
+<a class="title" href="/posts/open-source-business-metrics-guide/"><img src="/images/OSS Metrics-Guidebook.png" style="width: 100%;" ></a>
+
+<h1><a class="post-title" href="/metrics/">Explore a Specific Metric </a></h1>
+ {{ partial "metric_lists.html" . }}
+	 
+
+ 
+{{ end }}

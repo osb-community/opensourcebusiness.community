@@ -2,7 +2,9 @@
 
 * Welcome to the home page of the Open Source Business Metrics community!
 
-  Have a look around at the posts below, or check out these other resources:
+  Here you will find a list of recommended metrics to track and measure commercial open source projects and businesses.  Feel free to read the guide, submit resources, or share the links.  Have a look around at the posts below, or check out these other resources:
 
   - [[https://github.com/scarf-sh/oss-metrics][Contribute to this site on GitHub]]
   - View the resource list (link needed)
+
+

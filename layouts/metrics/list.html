@@ -1,0 +1,61 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+
+<style>
+  td {  
+	border: 0;
+	vertical-align: top;
+  }
+  tr {  
+    border: 0;
+	
+  }
+  table { 
+    border: 0;
+  }
+  div.title {
+    text-align: center;
+	color: #23B0FF;
+	font-display: swap;
+    font-family: 'Fira Code';
+    font-style:  normal;
+    font-weight: 800;
+    src: url("../fonts/FiraCode-Bold.woff") format("woff");
+  }
+
+</style>
+     <h1><a class="post-title" href="/metrics/">Open Source Business Metrics List</a></h1>
+	 {{ partial "metric_lists.html" . }}
+	  <h2>Open Source Funnel:</h2> 
+	 <img src="/images/funnel.png">
+	<table>
+	    <tr>
+	    {{ range $index, $page :=  .Site.Data.metrics.metrics }}
+          {{ $c :=add $index 1 }}
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: {{ .Name | markdownify }}
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/{{.key1}}"><img src=" {{ .MainImage }}" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/{{.key1}}"> {{ .Name }}</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  {{ if eq ( mod $c 1 ) 0 }}
+		     </tr><tr >
+		  {{ end }}	 
+    {{ end }}
+     </tr>	
+	</table>
+	
+	
+	
+  </div>
+{{ end }}

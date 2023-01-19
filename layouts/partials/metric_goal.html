@@ -1,0 +1,8 @@
+{{ $target := .Scratch.Get "mykey" }}
+
+{{ range .Site.Data.metrics.metrics }}
+  {{ if eq .key1 $target }}
+   <h2>Goals:</h2> 
+   {{ .Goal | markdownify  }}
+  {{ end }}
+{{ end }}

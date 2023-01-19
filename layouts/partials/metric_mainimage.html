@@ -1,0 +1,9 @@
+{{ $target := .Scratch.Get "mykey" }}
+
+{{ range .Site.Data.metrics.metrics }}
+  {{ if eq .key1 $target }}
+  <img src=" {{ .MainImage }}">
+  <p></p>
+  </br>
+  {{ end }}
+{{ end }}

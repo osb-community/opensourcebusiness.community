@@ -1,0 +1,30 @@
+
+{{ $target := .Scratch.Get "mykey" }}
+{{ $mytags := .Scratch.Get "mytags" }}
+{{ range .Site.Data.metrics.metrics }}
+  {{ if eq .key1 $target }}
+
+ <div style="display:table;clear:both;width:100%">
+    <div style="display:table-row;">
+    <div style="display:table-cell;float:left;width=50%;padding=10px">
+		   <div style="font-weight:bold;font-size=+2;">Metric: </div>{{ .Name | markdownify }}
+		   <div style="font-weight:bold;">Metric Group: </div>{{ .MetricGroup  | markdownify }}
+		   <div style="font-weight:bold;">Funnel Phase: </div>{{ .FunnelPhase | markdownify }}
+		   <div style="font-weight:bold;">Tags: </div>
+		   {{ if $mytags }}
+		   
+			<span class="post-tags">
+				{{ range $mytags }}
+					#<a href="{{ (urlize (printf "tags/%s/" .)) | absLangURL }}">{{ . }}</a>&nbsp;
+				{{ end }}
+			</span>
+		{{ end }}
+	</div>
+    <div style="display:table-cell;float:Right;width=50%;padding=10px">
+
+		 <iframe width="384" height="216" src="{{ .YoutubeLink }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		 
+	</div>
+  </div>
+    {{ end }}
+{{ end }}

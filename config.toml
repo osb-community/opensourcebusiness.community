@@ -16,9 +16,14 @@ theme = 'terminal'
 [[languages.en.menu.main]]
   identifier = "guide"
   name = "Read the Guide"
-  url = "/posts/open-source-business-metrics-handbook/"
+  url = "/posts/open-source-business-metrics-guide/"
   
 [[languages.en.menu.main]]
   identifier = "metrics"
   name = "Explore Metrics"
-  url = "/metrics/contributor_metrics/"
+  url = "/metrics/"
+ 
+[[languages.en.menu.main]]
+  identifier = "resources"
+  name = "External Resources"
+  url = "/resources/" 

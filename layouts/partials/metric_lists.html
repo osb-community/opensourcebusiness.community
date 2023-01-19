@@ -1,0 +1,7 @@
+
+ <h2>Metrics List:</h2> 
+ <ol>
+ {{ range .Site.Data.metrics.metrics }}
+	<li> [ <a class="title" href="/metrics/{{.key1}}"> {{ .Name }}</a> ] </li>
+ {{ end }}		
+ </ol>
