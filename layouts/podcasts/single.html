@@ -1,0 +1,82 @@
+{{ define "main" }}
+<style>
+   td {  
+	border: 0;
+	vertical-align: top;
+  }
+  tr {  
+    border: 0;
+	
+  }
+  table { 
+    border: 0;
+  }
+</style> 
+<article class="post">
+
+
+    <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    </h1>
+    <p></p>
+    <bold> Episode : </bold> {{ .Params.episode }}<br/>
+	<bold> Release Date : </bold>{{ .Params.date }}<br/>
+	<bold> Guests : </bold>
+	
+	{{ if .Params.guests }}
+		{{ range .Params.guests }}
+		    {{ . }} 
+	    {{ end }}
+	{{ end }}
+	  <br/> 
+	<bold> Tags : </bold>
+	
+	{{ if .Params.tags }}
+		{{ range .Params.tags }}
+		    {{ . }} 
+	    {{ end }}
+	{{ end }}  
+
+	<p></p>
+    <iframe width="848" height="480" src="{{ .Params.youtubeEmbed }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <p></p>
+		  <table>
+		<tr>
+		  <td><bold>Listen & Subscribe:</bold></td>
+		  <td><a href={{ .Params.appleLink }}><img src=" /images/Apple_Podcast.png" width=200></a></td>
+		  <td><a href={{ .Params.googleLink }}><img src=" /images/Google_Podcast_a.png" width=200></a></td>
+		  <td><a href={{ .Params.spotifyLink }}><img src=" /images/Spotify_Podcast.png" width=200></a></td>
+		</tr>
+	  </table>
+	<h2> Description </h2>
+	</br>
+	{{ .Params.description }}
+  {{ partial "cover.html" . }}
+
+  {{ if (.Params.Toc | default .Site.Params.Toc) }}
+    <div class="table-of-contents">
+      <h2>
+        {{ (.Params.TocTitle | default .Site.Params.TocTitle) | default "Table of Contents" }}
+      </h2>
+      {{ .TableOfContents }}
+    </div>
+  {{ end }}
+  
+
+  <div class="post-content">
+    {{- with .Content -}}
+      <div>
+        {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` | safeHTML }}
+      </div>
+    {{- end -}}
+  </div>
+
+  {{ if eq .Type $.Site.Params.contentTypeName }}
+    {{ partial "posts_pagination.html" . }}
+  {{ end }}
+
+  {{ if not (.Params.hideComments | default false) }}
+    {{ partial "comments.html" . }}
+  {{ end }}
+</article>
+{{ end }}

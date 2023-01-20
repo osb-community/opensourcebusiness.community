@@ -1,0 +1,34 @@
+{{ define "main" }}
+ 
+<article class="post">
+
+
+    <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .title | markdownify }}</a>
+    </h1>
+  <p></p>
+  
+  {{ partial "cover.html" . }}
+
+  
+  <iframe width="640" height="480" src="{{ .youtubeEmbed }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+  <div class="post-content">
+    {{- with .Content -}}
+      <div>
+        {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` | safeHTML }}
+      </div>
+    {{- end -}}
+  </div>
+
+  {{ if eq .Type $.Site.Params.contentTypeName }}
+    {{ partial "posts_pagination.html" . }}
+  {{ end }}
+
+  {{ if not (.Params.hideComments | default false) }}
+    {{ partial "comments.html" . }}
+  {{ end }}
+</article>
+{{ end }}
