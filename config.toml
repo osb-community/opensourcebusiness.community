@@ -26,4 +26,9 @@ theme = 'terminal'
 [[languages.en.menu.main]]
   identifier = "resources"
   name = "External Resources"
-  url = "/resources/" 
+  url = "/resources/external/" 
+  
+[[languages.en.menu.main]]
+ identifier = "podcasts"
+ name = "Podcasts"
+ url = "/podcasts/" 
