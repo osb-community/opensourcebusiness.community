@@ -30,7 +30,7 @@
 	{{ end }}
 	  <br/> 
 	<bold> Tags : </bold>
-	
+	 
 	{{ if .Params.tags }}
 		{{ range .Params.tags }}
 		    {{ . }} 
@@ -48,9 +48,13 @@
 		  <td><a href={{ .Params.spotifyLink }}><img src=" /images/Spotify_Podcast.png" width=200></a></td>
 		</tr>
 	  </table>
-	<h2> Description </h2>
+      <h2> Description: </h2>
 	</br>
 	{{ .Params.description }}
+	<h2> Thumbnail: </h2>
+	<img src=" {{ .Params.thumbnail }}">
+	
+	
   {{ partial "cover.html" . }}
 
   {{ if (.Params.Toc | default .Site.Params.Toc) }}

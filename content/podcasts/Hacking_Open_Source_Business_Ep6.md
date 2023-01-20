@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Ovias Tariq]
 episode: 6
-thumbnail: ""
+thumbnail: "/images/Podcasts/Ep06_thumb.png"
 description: "In this episode, we are joined by Tigris Data founder and CEO Ovais Tariq. Ovais shares his experiences and knowledge gained while founding a new open source company.  We discuss using open source software to build new open source software, the impact of the economy on fundraising, and more!   Episode 6 of the Hacking Open Source Business Podcast is Live!"
 ---
 

@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit]
 episode: 5
-thumbnail: ""
+thumbnail: "/images/Podcasts/Ep05_thumb.png"
 description: "Tune in to listen to Matt and Avi share their thoughts on the impact of AI on open source, give their opinions on the recent copilot lawsuit, chat about the recent round of layoffs at tech companies, and dive into the news of the week in the open source community."
 ---
 

@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Brian Douglas]
 episode: 8
-thumbnail: ""
+thumbnail: "/images/Podcasts/Ep08_thumb.png"
 description: "Interested in learning about the impact, momentum, and growth of your contributor base?  Brian Douglas stopped by the Hacking Open Source Business Podcast to talk to us about #opensource contributions, measuring those contributions, DevRel, his new company https://opensauced.pizza/, and more!"
 ---
 

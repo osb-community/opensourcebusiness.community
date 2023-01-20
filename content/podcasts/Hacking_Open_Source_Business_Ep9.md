@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit]
 episode: 9
-thumbnail: ""
+thumbnail: "/images/Podcasts/Ep09_thumb.png"
 description: "Join Avi and Matt for a dive into recent news in the open source space as they chat in person while together in Oakland California.  They discuss the funding tea received for their new venture, how maintainers are getting paid, news of layoffs in the tech space, and more."
 ---
 
