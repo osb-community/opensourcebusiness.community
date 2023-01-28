@@ -204,7 +204,7 @@
       "Example_Tools": [
         "pend.io",
         "posthog",
-        "scarf"
+        "Scarf"
       ]
     },
     {
@@ -229,7 +229,7 @@
         "# of unique sources/organizations downloading"
       ],
       "Example_Tools": [
-        "scarf"
+        "Scarf"
       ]
     },
     {
@@ -254,7 +254,7 @@
         "Version and release download metrics"
       ],
       "Example_Tools": [
-        "scarf"
+        "Scarf"
       ]
     },
     {
