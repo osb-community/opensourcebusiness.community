@@ -229,8 +229,6 @@ rest of the funnel for maximal conversion.
 In companies focused on product-led growth, you may be more familiar
 with using the growth flywheel:
 
-{{< image src="/images/100002010000028C000002EA0CA01C4A596ED940.png" position="center" style="border-radius: 8px;" >}}
-
 {{< image src="/images/100000000000051E000005183B9425511CE29FA9.png" position="center" style="border-radius: 8px;" >}}
 
 In this setup, evaluators are those reviewing your project and
@@ -394,6 +392,8 @@ those users?
  all the other factors to take into account. So, what metrics should you
  look at to understand the overall growth of your project?
 
+[[https://opensourcemetrics.org/metrics/intro_awareness/][/>> read more about awareness/]]
+
 *** Contributors (code or evangelist)
 
   Tracking contributors still matters, but the way in which you do it
@@ -417,6 +417,9 @@ those users?
   even better than hardcore code metrics, but tracking them is often
   manual.
 
+  [[https://opensourcemetrics.org/metrics/contributor_metrics][/>> read more about contributor metrics/]]
+
+
 *** Tracking the number of GitHub or GitLab stars
 
   Another important top-of-funnel metric is project traffic and activity
@@ -433,6 +436,8 @@ those users?
   those activities over the raw number of activities. Unique traffic to
   your repositories, the unique number of forks, and the unique number of
   clones of your repo are all worth tracking in order to gauge growth.
+  
+  [[https://opensourcemetrics.org/metrics/repo_popularity_metrics][/>> read more about popularity metrics/]]
 
 *** Website traffic and digital presence
 
@@ -451,6 +456,8 @@ those users?
   be able to track the trend of your traffic over time and explain the
   dips and spikes. Growth of uniques over time shows increasing interest
   in your product.
+  
+  [[https://opensourcemetrics.org/metrics/website_traffic][/>> read more about traffic metrics/]]
 
 **** Engagement with documentation, tutorials, and guides
 
@@ -474,6 +481,8 @@ those users?
    other websites mention your product, and what other websites reshare
    your content.
 
+   [[https://opensourcemetrics.org/metrics/website_referrals][/>> read more about referrals metrics/]]
+
 **** Share of voice
 
    Share of voice attempts to measure your share of a market and overall
@@ -487,6 +496,8 @@ those users?
    share of voice, we recommend waiting until later on in a project
    lifecycle to attempt to measure this.
 
+   [[https://opensourcemetrics.org/metrics/share_of_voice][/>> read more about share of voice metrics/]]
+
 *** Social reach
 
   Your social reach centers less around an individual metric and more
@@ -497,6 +508,8 @@ those users?
   - The number of likes/shares
   - Engagement: How many people have been part of a discussion on social
     media?
+	
+  [[https://opensourcemetrics.org/metrics/social_reach][/>> read more about social reach metrics/]]
 
 ** Middle of the open source funnel: How do you track usage?
 
@@ -514,6 +527,8 @@ those users?
  Nevertheless, there are ways to work with what you have. You can review
  the metrics outlined below to get a sense of how usage of your product
  is trending.
+ 
+ [[https://opensourcemetrics.org/metrics/adoption_metrics][/>> read more about adoption metrics/]]
 
 *** Raw downloads
 
@@ -521,12 +536,14 @@ those users?
   growing but should always be taken with a pinch of salt. The risks
   include redownloads, whether by bots or by real users, which can skew
   numbers and be misleading if looked at in isolation.
-
+  
 *** Scrubbed unique downloads
 
   Scrubbed unique downloads are a slight modification on raw downloads and
   aim to identify the real number of downloads by looking at how many
   unique companies or users have downloaded your software.
+  
+  [[https://opensourcemetrics.org/metrics/download_metrics][/>> read more about download metrics/]]  
 
 *** Enhanced download metrics with metadata
 
@@ -537,12 +554,16 @@ those users?
   accessed on the website, and the like. You can pull this information
   from the logs or employ a tool like
   [[https://app.scarf.sh/register][/Scarf/]].
+  
+  [[https://opensourcemetrics.org/metrics/download_meta_data][/>> read more about download metadata metrics/]]
 
 *** Net new users/companies
 
   This one is quite straightforward. It is essential to understand how
   many new people are trying your software.
 
+  [[https://opensourcemetrics.org/metrics/net_new_users][/>> read more about net new metrics/]]
+  
 *** Signups
 
   If you have a SaaS offering and a free tier, you'll automatically have a
@@ -553,6 +574,8 @@ those users?
 
   Once you have a solid understanding of how your product is used, the
   next step is to analyze behavior that precedes conversion.
+  
+  [[https://opensourcemetrics.org/metrics/user_signups][/>> read more about signup metrics/]]
 
 *** Page, docs, or source-to-download conversion ratios
 
@@ -560,6 +583,8 @@ those users?
   content, pages, docs, or other sources or channels users visit before
   deciding to download helps you optimize and increase those numbers
   because you get a better sense of what your target audience seeks.
+  
+  [[https://opensourcemetrics.org/metrics/user_conversion_ratios][/>> read more about conversion ratios/]]
 
 *** Docs views from those who have already downloaded
 
@@ -580,6 +605,8 @@ those users?
   ongoing usage and possible growth of the number of installs. This number
   and rate of downloads can also help determine changes to deployments or
   the overall install base that may occur.
+  
+  [[https://opensourcemetrics.org/metrics/redownload_metrics][/>> read more about redownload metrics/]]
 
 *** Users still active 90 days after their first install
 
@@ -592,20 +619,23 @@ those users?
   of the software, you can use some lightweight telemetry or in the
   absence of that, repeated downloads.
 
-*** Companies and organizations using the software for more
-  than six months
+*** Companies and organizations using the software for more than six months
 
   Whereas the above metric focuses on users, this metric focuses on the
   total number of users at a single company or organization. Multiple
   users at the same company might be downloading and using the software.
   If you know that multiple users from the same company use your product
   repeatedly, that is a powerful indicator of potential growth.
+  
+  [[https://opensourcemetrics.org/metrics/ongoing_sustained_usage][/>> read more about ongoing usage metrics/]]
 
 *** Company downloads accompanied by GitHub repo activity and issues
 
  Another powerful indicator of potential customers is the number of those
  who download your product and then open issues in GitHub or commit code
  to your repositories.
+ 
+ [[https://opensourcemetrics.org/metrics/merging_repo_download_metrics][/>> read more about correlated metrics/]]
 
 *** Call home telemetry: Instances/installs running at a company
 
@@ -614,6 +644,8 @@ those users?
  decreasing the number of active deployments. You want to know the number
  of active instances, the number of new instances running in the last X
  days, the number of churned instances, etc.
+ 
+ [[https://opensourcemetrics.org/metrics/call_home_metrics][/>> read more about call home metrics/]]
 
 ** Customers, users, and retention
 
@@ -626,6 +658,7 @@ those users?
  customers. Consider taking a closer look at these as you seek to
  evaluate the bottom of your open source funnel.
 
+ [[https://opensourcemetrics.org/metrics/customer_metrics][/>> read more about customer metrics/]]
 
 *** User-to-customer ratio
 
@@ -637,6 +670,8 @@ those users?
  overall users by orders of magnitude, but as the market changes, the
  growth rate slows down as you capture more and more of the available
  market. This is why converting users to customers is critical.
+ 
+ [[https://opensourcemetrics.org/metrics/customer_conversion_ratios][/>> read more about customer conversion metrics/]]
 
 *** Instance and user churn
 
@@ -646,6 +681,8 @@ those users?
   Decreases in the number of users or instances may indicate issues within
   the software or losses to competition.
 
+  [[https://opensourcemetrics.org/metrics/churn_instances][/>> read more about instance churn metrics/]]
+  
 *** Customer advocates
 
  Earlier we highlighted the significance of tracking contributors
@@ -654,11 +691,15 @@ those users?
  who are active in your community are a valuable source of feedback and
  help instill confidence in potential users and customers.
 
+ [[https://opensourcemetrics.org/metrics/customer_advocates][/>> read more about customer advocates metrics/]]
+ 
 ** Open source competitive analysis
 
  Check if your key users and customers are contributing to your
  competitive open source products. Their behavior will serve as a useful
  predictor of potential churn.
+ 
+ [[https://opensourcemetrics.org/metrics/predictive_churn][/>> read more about predictive churn metrics/]]
 
  {{< image src="/images/100000000000060A0000035BD89F24088D3B336F.png" position="center" style="border-radius: 8px;" >}}
 

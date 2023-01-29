@@ -11,19 +11,22 @@ date: 2023-01-20
 - All things Open https://www.allthingsopen.org/
 
 ### Interesting Articles ###
-- https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy
-- https://opensource.com/article/20/10/open-source-supply-chain
+- How to set an open source strategy: https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy
+- Explaination of the open source supply chain:  https://opensource.com/article/20/10/open-source-supply-chain
+- Overview of different open source business models: https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/
 
 ### Interesting Blogs ###
-- https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a
+- Overview of successful open source business models:  https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a
 
 
-### Interesting Websites ###
-- https://www.coss.community/
-- https://opensource.guide/
-- https://opensource.com/
-- https://opensource.org/
-- https://chaoss.community/
+### Interesting Websites & communities ###
+- Community for commercial open source companies: https://www.coss.community/
+- A collection of blogs and guides on building open source projects: https://opensource.guide/
+- A clearing house for open source news and content: https://opensource.com/
+- The official home of the OSI: https://opensource.org/
+- The home of the Chaoss community which is all about open source metrics of all kinds: https://chaoss.community/
+- Need to pick a license?  check out : https://choosealicense.com/licenses/
+- Another good resource when looking at licenses: https://snyk.io/learn/open-source-licenses/
 
 ### Other Resources ###
-- https://amandabrock.com/books/
+- Free access to the book Open Source Law, Policy, and Practice:  https://amandabrock.com/books/
