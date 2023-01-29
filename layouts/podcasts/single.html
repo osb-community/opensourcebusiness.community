@@ -38,16 +38,20 @@
 	{{ end }}  
 
 	<p></p>
+  {{ if .Params.youtubeEmbed }}
     <iframe width="848" height="480" src="{{ .Params.youtubeEmbed }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  {{ end }}
     <p></p>
-		  <table>
-		<tr>
-		  <td><bold>Listen & Subscribe:</bold></td>
-		  <td><a href={{ .Params.appleLink }}><img src=" /images/Apple_Podcast.png" width=200></a></td>
-		  <td><a href={{ .Params.googleLink }}><img src=" /images/Google_Podcast_a.png" width=200></a></td>
-		  <td><a href={{ .Params.spotifyLink }}><img src=" /images/Spotify_Podcast.png" width=200></a></td>
-		</tr>
-	  </table>
+    {{ if or (or (.Params.spotifyLink) (.Params.googleLink)) (.Params.appleLink) }}
+        <table>
+        <tr>
+        <td><bold>Listen & Subscribe:</bold></td>
+        <td><a href={{ .Params.appleLink }}><img src=" /images/Apple_Podcast.png" width=200></a></td>
+        <td><a href={{ .Params.googleLink }}><img src=" /images/Google_Podcast_a.png" width=200></a></td>
+        <td><a href={{ .Params.spotifyLink }}><img src=" /images/Spotify_Podcast.png" width=200></a></td>
+        </tr>
+        </table>
+    {{ end }}
       <h2> Description: </h2>
 	</br>
 	{{ .Params.description }}

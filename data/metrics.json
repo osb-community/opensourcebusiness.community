@@ -16,6 +16,8 @@
       ],
       "Example_Metrics": [
         "TBD"
+      ],
+      "Example_Tools": [
       ]
     },
     {
@@ -41,11 +43,19 @@
         "# of total code contributors",
         "# of first time contributors",
         "# of open/closed prs",
+        "% of PRs closed without merging",
         "# of external speakers",
         "# of external blogs",
         "# of opened/closed issues",
         "# of forks",
         "# of clones"
+      ],
+      "Example_Tools": [
+        "Common Room",
+        "Orbit",
+        "Apache DevLake",
+        "Merico",
+        "OpenSauced"
       ]
     },
     {
@@ -70,8 +80,9 @@
         "correlated star growth with the # of issues, merges, etc"
       ],
       "Example_Tools": [
-        "https://matomo.org/",
-        "https://analytics.google.com/"
+        "Common Room",
+        "Orbit",
+        "https://star-history.com/"
       ]
     },
     {
@@ -83,20 +94,25 @@
       "ExampleGraph": "",
       "MainImage": "/images/OSS_Metrics_-_Website_Traffic.png",
       "Thumbnail": "",
-      "Description": "We’ve covered some key metrics for measuring interest that come from external sources. Let’s take a closer look at some of the internal sources of data within your company that you can review. To access these numbers, you can employ a service such as Google Analytics, Chartbeat, Semrush, Amplitude Analytics, or Pendo, and work with your web development team to gain access. \n \n \n *Unique views:* \n \n \n Because bots and crawlers on the web can cause peaks in website traffic, identifying the number of unique views or companies interacting with your site is more valuable than the number of raw page views. You should be able to track the trend of your traffic over time and explain the dips and spikes. Growth of uniques over time shows increasing interest in your product. \n \n \n *Engagement with documentation, tutorials, and guides* \n \n \n Another indicator of interest in your product lies in a subset of your website traffic: engagement with docs, tutorials, and guides. Increased traffic of unique visitors in these sections typically signals more people who are seriously interested in trying out your product. It is also important to note that there are different weights to people’s actions that you should take into account, for instance, someone who revisits your website over and over again or someone who reviews your pricing page indicates more interest than merely a one-time visit to the homepage. ",
+      "Description": "We’ve covered some key metrics for measuring interest that come from external sources. Let’s take a closer look at some of the internal sources of data within your company that you can review. To access these numbers, you can employ a service such as Google Analytics, Chartbeat, Semrush, Amplitude Analytics, or Pendo, and work with your web development team to gain access. \n \n \n *Unique views:* \n \n \n Because bots and crawlers on the web can cause peaks in website traffic, identifying the number of unique views or companies interacting with your site is more valuable than the number of raw page views. You should be able to track the trend of your traffic over time and explain the dips and spikes. Growth of uniques over time shows increasing interest in your product. \n \n \n *Engagement with documentation, tutorials, and guides* \n \n \n Another indicator of interest in your product lies in a subset of your website traffic: engagement with docs, tutorials, and guides. Increased traffic of unique visitors in these sections typically signals more people who are seriously interested in trying out your product. It is also important to note that there are different weights to people’s actions that you should take into account, for instance, someone who revisits your website over and over again or someone who reviews your pricing page indicates more interest than merely a one-time visit to the homepage. Note that in addition to your website, your traffic also includes your open source docs, whether they are rendered on GitHub, an artifact registry like PyPI, Docker Hub, etc, or any mirrors. Approaches like tracking pixel-based analytics are able to capture web traffic data when OSS documentation is rendered anywhere online, rather than only domains that you own.",
       "Goal": "You want more traffic to your website, but more importantly you want more traffic to the high value parts of your website.",
       "External_Links": [
         "A marketing view of popular website metrics to track from Hubspot:  https://blog.hubspot.com/website/engagement-metrics",
         "A list of metrics to track from Dreamhost:  https://www.dreamhost.com/academy/most-important-website-metrics/"
       ],
       "Example_Metrics": [
-        "# of users",
         "# of unique users",
-        "# of pageviews"
+        "# of pageviews",
+        "# of returning page views",
+        "time spent on page",
+        "bounce rate"
       ],
       "Example_Tools": [
         "https://matomo.org/",
-        "https://analytics.google.com/"
+        "https://analytics.google.com/",
+        "https://umami.is",
+        "https://plausible.io",
+        "https://about.scarf.sh/documentation-insights"
       ]
     },
     {
@@ -120,7 +136,10 @@
       ],
       "Example_Tools": [
         "https://matomo.org/",
-        "https://analytics.google.com/"
+        "https://analytics.google.com/",
+        "https://umami.is",
+        "https://plausible.io",
+        "Scarf"
       ]
     },
     {
@@ -199,12 +218,11 @@
         "https://sproutsocial.com/insights/reach-vs-impressions/"
       ],
       "Example_Metrics": [
-        "To be Defined in this Section"
       ],
       "Example_Tools": [
         "pend.io",
-        "posthog",
-        "Scarf"
+        "[PostHog](https://posthog.com)",
+        "[Scarf](https://scarf.sh)"
       ]
     },
     {
@@ -220,8 +238,11 @@
       "Goal": " You want to keep growing the number of unique and first time downloaders.  The more people downloading you have the more potetial users or conversions later on.",
       "External_Links": [
         "https://percona.community/podcasts/77-data-collection-download-metrics-and-scarf-percona-database-podcast77-avi-press/",
-        "https://bepress.com/download-counts/"
-      ],
+        "https://bepress.com/download-counts/",
+        "[Talk - Beyond the Download Count: Understanding Usage of Your Public Containers](https://www.youtube.com/watch?v=ZEo7JZb3Xpo)",
+        "https://about.scarf.sh/post/direct-downloads-via-scarf-gateway",
+        "https: //about.scarf.sh/post/announcing-scarf-gateway"
+      ],
       "Example_Metrics": [
         "# of raw downloads",
         "# of unique downloads",
@@ -276,7 +297,8 @@
         "# of total download users -vs- # of redownloaders -vs- # of new downloaders"
       ],
       "Example_Tools": [
-        "TBD"
+        "Scarf",
+        "PostHog"
       ]
     },
     {
@@ -300,7 +322,7 @@
         "Removed signups ( or dead )"
       ],
       "Example_Tools": [
-        "TBD"
+        "PostHog"
       ]
     },
     {
@@ -324,7 +346,7 @@
         "Which pages have the highest download conversion %"
       ],
       "Example_Tools": [
-        "TBD"
+        "Scarf"
       ]
     },
     {
@@ -347,7 +369,7 @@
         "Time between downloads"
       ],
       "Example_Tools": [
-        "TBD"
+        "Scarf"
       ]
     },
     {
@@ -371,7 +393,7 @@
         "# of orgs or users who ceased activity in the last x days"
       ],
       "Example_Tools": [
-        "TBD"
+        "Scarf"
       ]
     },
     {
@@ -416,7 +438,7 @@
         "active instances of each version"
       ],
       "Example_Tools": [
-        "TBD"
+        "Scarf"
       ]
     },
     {

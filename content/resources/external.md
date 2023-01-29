@@ -30,3 +30,4 @@ date: 2023-01-20
 
 ### Other Resources ###
 - Free access to the book Open Source Law, Policy, and Practice:  https://amandabrock.com/books/
+- [All Things Open Talk Recording: How Do You Know if your Project is Any Good? Emily Omier & Avi Press](https://www.youtube.com/watch?v=7XHlbqLLFXs)
