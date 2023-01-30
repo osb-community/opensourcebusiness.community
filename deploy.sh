@@ -12,4 +12,4 @@ hugo
 yes | cp -r public/* .
 git add -A
 git commit
-git push origin gh-pages
+git push -u origin gh-pages
