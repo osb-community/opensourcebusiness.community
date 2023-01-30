@@ -2,7 +2,7 @@
 title: "Random Open Source News: Funding, Layoffs, Bugs, and Fortune Cookies - Ep 9"
 type: podcasts
 date: 2022-12-21
-tags: [Open Source, Funding, Layoffs, Bugs]
+tags[]: [Open Source, Funding, Layoffs, Bugs]
 youtubeLink: "https://www.youtube.com/watch?v=jUDmGGIQjpw"
 youtubeEmbed: "https://www.youtube.com/embed/jUDmGGIQjpw"
 podcastLink: https://www.buzzsprout.com/2055750/11885064

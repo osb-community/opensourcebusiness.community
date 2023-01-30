@@ -2,7 +2,7 @@
 title: "DevRel, Contributors, Metrics, & Open Sauced w/ Brian Douglas: Hacking Open Source Business Ep8"
 type: podcasts
 date: 2022-12-14
-tags: [Open Source, Database, Community, DevRel, Metrics]
+tags[]: [Open Source, Database, Community, DevRel, Metrics]
 youtubeLink: "https://www.youtube.com/watch?v=X8OV9cCcAV4"
 youtubeEmbed: "https://www.youtube.com/embed/X8OV9cCcAV4"
 podcastLink: https://www.buzzsprout.com/2055750/11871036
