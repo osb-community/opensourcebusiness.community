@@ -51,11 +51,11 @@
         "# of clones"
       ],
       "Example_Tools": [
-        "Common Room",
-        "Orbit",
-        "Apache DevLake",
-        "Merico",
-        "OpenSauced"
+        "[[https://commonroom.io][Common Room]]",
+        "[[https://orbit.love][Orbit]]",
+        "[[https://devlake.apache.org][Apache DevLake]]",
+        "[[https://merico.dev][Merico]]",
+        "[[https://opensauced.pizza][OpenSauced]]"
       ]
     },
     {
@@ -80,8 +80,8 @@
         "correlated star growth with the # of issues, merges, etc"
       ],
       "Example_Tools": [
-        "Common Room",
-        "Orbit",
+        "[[https://commonroom.io][Common Room]]",
+        "[[https://orbit.love][Orbit]]",
         "https://star-history.com/"
       ]
     },
@@ -135,11 +135,11 @@
         "Source of referrals"
       ],
       "Example_Tools": [
-        "https://matomo.org/",
-        "https://analytics.google.com/",
-        "https://umami.is",
-        "https://plausible.io",
-        "Scarf"
+        "[https://umami.is][Umami]]",
+        "[[https://plausible.io][Plausible]]",
+        "[[https://scarf.sh][Scarf]]",
+        "[[https://matomo.org/][Matomo]]",
+        "[[https://analytics.google.com/][Google Analytics]]"
       ]
     },
     {
@@ -220,9 +220,9 @@
       "Example_Metrics": [
       ],
       "Example_Tools": [
-        "pend.io",
-        "[PostHog](https://posthog.com)",
-        "[Scarf](https://scarf.sh)"
+        "[[PostHog][https://posthog.com]]",
+        "[[https://scarf.sh][Scarf]]",
+        "pend.io"
       ]
     },
     {
@@ -250,7 +250,7 @@
         "# of unique sources/organizations downloading"
       ],
       "Example_Tools": [
-        "Scarf"
+        "[[https://scarf.sh][Scarf]]"
       ]
     },
     {
@@ -275,7 +275,7 @@
         "Version and release download metrics"
       ],
       "Example_Tools": [
-        "Scarf"
+        "[[https://scarf.sh][Scarf]]"
       ]
     },
     {
@@ -297,8 +297,8 @@
         "# of total download users -vs- # of redownloaders -vs- # of new downloaders"
       ],
       "Example_Tools": [
-        "Scarf",
-        "PostHog"
+        "[[https://scarf.sh][Scarf]]",
+        "[[PostHog][https://posthog.com]]"
       ]
     },
     {
@@ -322,7 +322,7 @@
         "Removed signups ( or dead )"
       ],
       "Example_Tools": [
-        "PostHog"
+        "[[PostHog][https://posthog.com]]"
       ]
     },
     {
@@ -346,7 +346,7 @@
         "Which pages have the highest download conversion %"
       ],
       "Example_Tools": [
-        "Scarf"
+        "[[https://scarf.sh][Scarf]]"
       ]
     },
     {
@@ -369,7 +369,7 @@
         "Time between downloads"
       ],
       "Example_Tools": [
-        "Scarf"
+        "[[https://scarf.sh][Scarf]]"
       ]
     },
     {
@@ -393,7 +393,7 @@
         "# of orgs or users who ceased activity in the last x days"
       ],
       "Example_Tools": [
-        "Scarf"
+        "[[https://scarf.sh][Scarf]]"
       ]
     },
     {
@@ -438,7 +438,7 @@
         "active instances of each version"
       ],
       "Example_Tools": [
-        "Scarf"
+        "[[https://scarf.sh][Scarf]]"
       ]
     },
     {

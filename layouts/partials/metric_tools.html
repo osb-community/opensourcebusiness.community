@@ -3,10 +3,10 @@
 {{ range .Site.Data.metrics.metrics }}
   {{ if eq .key1 $target }}
 	{{ if .Example_Tools }}
-	   <h2>Example Tools</h2> 
+	   <h2>Example Tools</h2>
 	   <ul>
 		{{ range .Example_Tools }}
-			<li>{{ . | markdownify  }}</li>
+			<li> {{ . | markdownify  }} </li>
 		{{ end }}
 		</ul>
 	{{ end }}

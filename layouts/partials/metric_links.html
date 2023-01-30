@@ -3,10 +3,10 @@
 {{ range .Site.Data.metrics.metrics }}
   {{ if eq .key1 $target }}
 	{{ if .External_Links }}
-	   <h2>External Links</h2> 
+	   <h2>External Links</h2>
 	   <ul>
 		{{ range .External_Links }}
-			<li>{{ . | markdownify  }}</li>
+			<li> {{ . | markdownify  }} </li>
 		{{ end }}
 		</ul>
 	{{ end }}

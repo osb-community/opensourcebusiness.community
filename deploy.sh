@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 git checkout main
 git fetch --all
 git pull origin main
