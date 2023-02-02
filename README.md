@@ -1,4 +1,8 @@
-# oss-metrics
+# opensourcemetrics.org
+
+Welcome to the source for the the Open Source Business Metrics community site!
+
+This site comprises a list of recommended metrics to track and measure commercial open source projects and businesses. Feel free to read the guide, submit resources, or share the links. Have a look around and feel free to drop us a comment or idea we would love to hear from you.
 
 ### Contributing
 
