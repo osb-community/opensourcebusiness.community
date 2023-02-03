@@ -1,0 +1,6 @@
+<script type="text/javascript">
+ // send the referring domain to Scarf on page load
+ fetch('https://scarf.gateway.scarf.sh/opensourcemetrics.org/' + encodeURIComponent((document.referrer || '').split('/')[2]),
+       {method: POST, mode: 'no-cors'})
+    .catch(() => {})
+</script>

@@ -26,4 +26,4 @@ This site uses github pages.
 ./deploy.sh
 ```
 
-<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=d07b3dcc-a2cc-4397-9412-3084179aed91" />
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=6fd84ee2-d82f-45ae-8304-4e67adf9716e" />
