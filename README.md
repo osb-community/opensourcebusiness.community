@@ -1,4 +1,4 @@
-# opensourcemetrics.org
+# [opensourcemetrics.org](https://opensourcemetrics.org)
 
 Welcome to the source for the the Open Source Business Metrics community site!
 
