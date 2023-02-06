@@ -12,7 +12,7 @@ googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmN
 guests: [Avi Press, Matt Yonkovit, Georg Link]
 episode: 11
 thumbnail: "/images/Podcasts/Ep11_thumb.png"
-description: "Amanda Brock joins Avi and Matt for episode of 10 of the Hacking Open Source Business Podcast.  Amanda talks to us about the important of open source in government circles, the growing need for software curation, how security of open source is required for critical public infrastructure and more.  Amanda also fills us in on her upcoming conference the State of Open Conference 2023 (https://stateofopencon.com/) and her latest book the Open Source Law, Policy, and Practice guide."
+description: "Georg Link chats about measuring open source communities, how to sell open source, what it's like to grow up in a castle, and more!  "
 ---
 
 
