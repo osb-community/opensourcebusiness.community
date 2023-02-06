@@ -13,6 +13,7 @@ copyright = 'Copyright © 2023 Open Source Business Metrics Maintainers'
   centerTheme = true
   fullWidthTheme = false
   showLastUpdated = true
+  cover =  "/images/OSS Metrics-Guidebook.png"
 
 [[languages.en.menu.main]]
   identifier = "guide"
