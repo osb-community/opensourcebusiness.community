@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adoption on Open Source Business Metrics</title>
+    <link>https://opensourcemetrics.org/tags/adoption/</link>
+    <description>Recent content in Adoption on Open Source Business Metrics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright><atom:link href="https://opensourcemetrics.org/tags/adoption/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Business Metrics: Call Home Metrics</title>
+      <link>https://opensourcemetrics.org/metrics/call_home_metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/call_home_metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Correated Repo &amp; Download</title>
+      <link>https://opensourcemetrics.org/metrics/merging_repo_download_metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/merging_repo_download_metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Download Metadata</title>
+      <link>https://opensourcemetrics.org/metrics/download_meta_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/download_meta_data/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Downloads</title>
+      <link>https://opensourcemetrics.org/metrics/download_metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/download_metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Instance Churn</title>
+      <link>https://opensourcemetrics.org/metrics/churn_instances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/churn_instances/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Intro Adoption</title>
+      <link>https://opensourcemetrics.org/metrics/adoption_metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/adoption_metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Net New Users</title>
+      <link>https://opensourcemetrics.org/metrics/net_new_users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/net_new_users/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Ongoing Usage</title>
+      <link>https://opensourcemetrics.org/metrics/ongoing_sustained_usage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/ongoing_sustained_usage/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Redownload</title>
+      <link>https://opensourcemetrics.org/metrics/redownload_metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/redownload_metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Signups</title>
+      <link>https://opensourcemetrics.org/metrics/user_signups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/user_signups/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: User Conversion Ratios</title>
+      <link>https://opensourcemetrics.org/metrics/user_conversion_ratios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/user_conversion_ratios/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

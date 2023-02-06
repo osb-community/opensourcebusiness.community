@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metrics on Open Source Business Metrics</title>
+    <link>https://opensourcemetrics.org/tags/metrics/</link>
+    <description>Recent content in Metrics on Open Source Business Metrics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
+    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/metrics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source VC Funding: Insider View from Joseph Jacks (OSS Capital) - Hacking Open Source Business</title>
+      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep3/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep3/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>FLOSS Weekly 693 - Open Source Analytics with Scarf</title>
+      <link>https://opensourcemetrics.org/podcasts/flossweekly693/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/flossweekly693/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Who&#39;s Looking At Your GitHub Project? | Avi Press of Scarf | The Secret Sauce Podcast</title>
+      <link>https://opensourcemetrics.org/podcasts/secretsauce_whoslookingatyourgithub/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/secretsauce_whoslookingatyourgithub/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>CHAOSSCast Episode 53: Gathering Open Source Usage Data with Avi Press</title>
+      <link>https://opensourcemetrics.org/podcasts/chaosscastep53avipress/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/chaosscastep53avipress/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

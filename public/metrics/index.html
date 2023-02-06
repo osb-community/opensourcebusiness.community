@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Metrics :: Open Source Business Metrics</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://opensourcemetrics.org/metrics/" />
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://opensourcemetrics.org/styles.css">
+
+
+
+
+
+
+
+  <link rel="shortcut icon" href="https://opensourcemetrics.org/img/theme-colors/blue.png">
+  <link rel="apple-touch-icon" href="https://opensourcemetrics.org/img/theme-colors/blue.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Metrics">
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://opensourcemetrics.org/metrics/" />
+<meta property="og:site_name" content="Open Source Business Metrics" />
+
+  
+    <meta property="og:image" content="https://opensourcemetrics.org/img/favicon/blue.png">
+  
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+
+
+
+  <link href="/metrics/index.xml" rel="alternate" type="application/rss+xml" title="Open Source Business Metrics" />
+
+
+
+
+
+
+<script type="text/javascript">
+ 
+ fetch('https://scarf.gateway.scarf.sh/opensourcemetrics.org/' + encodeURIComponent((document.referrer || '').split('/')[2]),
+       {method: 'POST', mode: 'no-cors'})
+    .catch(() => {})
+</script>
+
+
+</head>
+<body class="blue">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Open Source Business Metrics
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/metrics/">Explore Metrics</a></li>
+        
+      
+        
+          <li><a href="/resources/external/">External Resources</a></li>
+        
+      
+        
+          <li><a href="https://github.com/scarf-sh/oss-metrics">GitHub</a></li>
+        
+      
+        
+          <li><a href="/podcasts/">Podcasts</a></li>
+        
+      
+        
+          <li><a href="/posts/open-source-business-metrics-guide/">Read the Guide</a></li>
+        
+      
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+        
+          <li><a href="/metrics/">Explore Metrics</a></li>
+        
+      
+        
+          <li><a href="/resources/external/">External Resources</a></li>
+        
+      
+        
+          <li><a href="https://github.com/scarf-sh/oss-metrics">GitHub</a></li>
+        
+      
+        
+          <li><a href="/podcasts/">Podcasts</a></li>
+        
+      
+        
+          <li><a href="/posts/open-source-business-metrics-guide/">Read the Guide</a></li>
+        
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+  
+
+<style>
+  td {  
+	border: 0;
+	vertical-align: top;
+  }
+  tr {  
+    border: 0;
+	
+  }
+  table { 
+    border: 0;
+  }
+  div.title {
+    text-align: center;
+	color: #23B0FF;
+	font-display: swap;
+    font-family: 'Fira Code';
+    font-style:  normal;
+    font-weight: 800;
+    src: url("../fonts/FiraCode-Bold.woff") format("woff");
+  }
+
+</style>
+     <h1><a class="post-title" href="/metrics/">Open Source Business Metrics List</a></h1>
+	 
+ <h2>Metrics List:</h2> 
+ <ol>
+ 
+	<li> [ <a class="title" href="/metrics/intro_awareness"> Intro to Awareness</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/contributor_metrics"> Contributor Metrics</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/repo_popularity_metrics"> Stars, Likes, and Subscriber Metrics</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/website_traffic"> Measuring traffic to your website</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/website_referrals"> Who is sending people to your project?</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/share_of_voice"> How far is your reach?</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/social_reach"> Measuring your social reach</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/adoption_metrics"> Intro to Adoption</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/download_metrics"> Download Metrics</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/download_meta_data"> Enhanced Download MetaData</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/net_new_users"> New Users &amp; Trials</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/user_signups"> Official Signups</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/user_conversion_ratios"> User Ratios</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/redownload_metrics"> Ongoing Usage: Redownload Metrics</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/ongoing_sustained_usage"> Ongoing Usage: Sustain Long Term Usage</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/merging_repo_download_metrics"> Correlated Usage: downloads &#43; repos</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/call_home_metrics"> Call Home Metrics</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/customer_metrics"> Customer Metrics</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/customer_conversion_ratios"> Customer Conversion Rations</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/churn_instances"> Instance Churn</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/customer_advocates"> Customer Advocates</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/predictive_churn"> Predictive Churn</a> ] </li>
+ 
+	<li> [ <a class="title" href="/metrics/final_thoughts"> Recap</a> ] </li>
+ 		
+ </ol>
+
+	  <h2>Open Source Funnel:</h2> 
+	 <img src="/images/funnel.png">
+	<table>
+	    <tr>
+	    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Intro to Awareness
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/intro_awareness"><img src=" /images/OSS_Metrics_-_Intro.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/intro_awareness"> Intro to Awareness</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Contributor Metrics
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/contributor_metrics"><img src=" /images/OSS_Metrics_-_Contributor_Metrics.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/contributor_metrics"> Contributor Metrics</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Stars, Likes, and Subscriber Metrics
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/repo_popularity_metrics"><img src=" /images/OSS_Metrics_-_Star_Metrics.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/repo_popularity_metrics"> Stars, Likes, and Subscriber Metrics</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Measuring traffic to your website
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/website_traffic"><img src=" /images/OSS_Metrics_-_Website_Traffic.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/website_traffic"> Measuring traffic to your website</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Who is sending people to your project?
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/website_referrals"><img src=" /images/OSS_Metrics_-_Referrals.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/website_referrals"> Who is sending people to your project?</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: How far is your reach?
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/share_of_voice"><img src=" /images/OSS_Metrics_-_Share_of_Voice.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/share_of_voice"> How far is your reach?</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Measuring your social reach
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/social_reach"><img src=" /images/OSS_Metrics_-_Social_Reach.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/social_reach"> Measuring your social reach</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Intro to Adoption
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/adoption_metrics"><img src=" /images/OSS_Metrics_-_Adoption_Metrics.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/adoption_metrics"> Intro to Adoption</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Download Metrics
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/download_metrics"><img src=" /images/OSS_Metrics_-_Downloads.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/download_metrics"> Download Metrics</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Enhanced Download MetaData
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/download_meta_data"><img src=" /images/OSS_Metrics_-_Metadata.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/download_meta_data"> Enhanced Download MetaData</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: New Users &amp; Trials
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/net_new_users"><img src=" /images/OSS_Metrics_-_Net_New_Users.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/net_new_users"> New Users &amp; Trials</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Official Signups
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/user_signups"><img src=" /images/OSS_Metrics_-_Signups.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/user_signups"> Official Signups</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: User Ratios
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/user_conversion_ratios"><img src=" /images/OSS_Metrics_-_User_Conversion_Ratios.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/user_conversion_ratios"> User Ratios</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Ongoing Usage: Redownload Metrics
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/redownload_metrics"><img src=" /images/OSS_Metrics_-_Redownloads.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/redownload_metrics"> Ongoing Usage: Redownload Metrics</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Ongoing Usage: Sustain Long Term Usage
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/ongoing_sustained_usage"><img src=" /images/OSS_Metrics_-_Ongoing_Usage.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/ongoing_sustained_usage"> Ongoing Usage: Sustain Long Term Usage</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Correlated Usage: downloads + repos
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/merging_repo_download_metrics"><img src=" /images/OSS_Metrics_-_Correlated_Metrics.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/merging_repo_download_metrics"> Correlated Usage: downloads &#43; repos</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Call Home Metrics
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/call_home_metrics"><img src=" /images/OSS_Metrics_-_Call_Home.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/call_home_metrics"> Call Home Metrics</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Customer Metrics
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/customer_metrics"><img src=" /images/OSS_Metrics_-_Contributor_Metrics.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/customer_metrics"> Customer Metrics</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Customer Conversion Rations
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/customer_conversion_ratios"><img src=" /images/OSS_Metrics_-_User_to_Customer_Ratio.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/customer_conversion_ratios"> Customer Conversion Rations</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Instance Churn
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/churn_instances"><img src=" /images/OSS_Metrics_-_Customer_Churn.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/churn_instances"> Instance Churn</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Customer Advocates
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/customer_advocates"><img src=" /images/OSS_Metrics_-_Customer_Advocates.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/customer_advocates"> Customer Advocates</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Predictive Churn
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/predictive_churn"><img src=" /images/OSS_Metrics_-_Predictive_Churn.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/predictive_churn"> Predictive Churn</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+          
+
+			  <td>
+			        <h1 class="post-title">
+                       Open Source Business Metrics: Recap
+                    </h1>
+					<div class="title"><a class="title" href="/metrics/final_thoughts"><img src=" /images/OSS_Metrics_-_Recaps.png" style="width: 100%;" ></a>
+					<bold> 
+					   [ 
+					    <a class="title" href="/metrics/final_thoughts"> Recap</a> 
+					   ]
+					</bold></a></div>
+			  </td>
+		  
+		     </tr><tr >
+		  	 
+    
+     </tr>	
+	</table>
+	
+	
+	
+  </div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>Copyright © 2023 Open Source Business Metrics Maintainers</span>
+    
+	  <span>:: Sponsored by: <a href="https://scarf.sh" target="_blank">Scarf</a></span>
+    <span>:: <a href="https://github.com/scarf-sh/oss-metrics" target="_blank">Contribute on GitHub</a></span>
+      </div>
+      </div>
+      <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=6fd84ee2-d82f-45ae-8304-4e67adf9716e" />
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

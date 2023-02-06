@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on Open Source Business Metrics</title>
+    <link>https://opensourcemetrics.org/tags/analytics/</link>
+    <description>Recent content in Analytics on Open Source Business Metrics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLOSS Weekly 693 - Open Source Analytics with Scarf</title>
+      <link>https://opensourcemetrics.org/podcasts/flossweekly693/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/flossweekly693/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

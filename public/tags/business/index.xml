@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Open Source Business Metrics</title>
+    <link>https://opensourcemetrics.org/tags/business/</link>
+    <description>Recent content in Business on Open Source Business Metrics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrapping your Startup, Stepping down as CEO, What&#39;s Next In Open Source w/ Peter Zaitsev Ep 7</title>
+      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep7/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep7/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Customer Advocates</title>
+      <link>https://opensourcemetrics.org/metrics/customer_advocates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/customer_advocates/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Customer Business Metrics</title>
+      <link>https://opensourcemetrics.org/metrics/customer_metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/customer_metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Customer Conversion Ratios</title>
+      <link>https://opensourcemetrics.org/metrics/customer_conversion_ratios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/customer_conversion_ratios/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Instance Churn</title>
+      <link>https://opensourcemetrics.org/metrics/churn_instances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/churn_instances/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Predictive Churn</title>
+      <link>https://opensourcemetrics.org/metrics/predictive_churn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/predictive_churn/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

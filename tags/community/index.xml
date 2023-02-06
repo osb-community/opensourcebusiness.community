@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Open Source Business Metrics</title>
+    <link>https://opensourcemetrics.org/tags/community/</link>
+    <description>Recent content in Community on Open Source Business Metrics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reaching People &amp; Building Community in the Open Source &amp; Kubernetes Ecosystem w/Bart Farrell Ep 12</title>
+      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep12/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep12/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>The Best Way to Measure your Open Source Community /w Guest Georg Link Ep 11</title>
+      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep11/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep11/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>CHAOSSCast Episode 53: Gathering Open Source Usage Data with Avi Press</title>
+      <link>https://opensourcemetrics.org/podcasts/chaosscastep53avipress/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/chaosscastep53avipress/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Customer Advocates</title>
+      <link>https://opensourcemetrics.org/metrics/customer_advocates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/metrics/customer_advocates/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
