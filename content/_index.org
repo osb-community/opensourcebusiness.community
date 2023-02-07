@@ -1,5 +1,5 @@
 #+framed: true
-#+cover: "/images/thumbnail_ossmetrics.png"
+#+cover: /images/thumbnail_ossmetrics.png
 * Welcome to the home page of the Open Source Business Metrics community!
 
 Here you will find a list of recommended metrics to track and measure commercial open source projects and businesses.  Feel free to read the guide, submit resources, or share the links.  Have a look around and feel free to drop us a comment or idea we would love to hear from you.
