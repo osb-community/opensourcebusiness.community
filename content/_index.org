@@ -1,7 +1,8 @@
 #+framed: true
 #+cover: "/images/OSS Metrics-Guidebook.png"
-* Welcome to the home page of the Open Source Business Metrics community!
+
+* Welcome to the Open Source Business Metrics community!
 
 Here you will find a list of recommended metrics to track and measure commercial open source projects and businesses.  Feel free to read the guide, submit resources, or share the links.  Have a look around and feel free to drop us a comment or idea we would love to hear from you.
 
-[[https://github.com/scarf-sh/oss-metrics][This site is Open Source, join us on GitHub!]]
+/*This site is Open Source, join us on [[https://github.com/scarf-sh/oss-metrics][GitHub]] and [[https://discord.gg/7HvFURHxAM][Discord]]!*/

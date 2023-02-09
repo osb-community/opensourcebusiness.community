@@ -39,3 +39,8 @@ copyright = 'Copyright © 2023 Open Source Business Metrics Maintainers'
  identifier = "github"
  name = "GitHub"
  url = "https://github.com/scarf-sh/oss-metrics" 
+
+[[languages.en.menu.main]]
+ identifier = "discord"
+ name = "Discord"
+ url = "https://discord.gg/7HvFURHxAM" 
