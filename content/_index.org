@@ -1,5 +1,5 @@
 #+framed: true
-#+cover: "/images/OSS Metrics-Guidebook.png"
+#+cover: /images/thumbnail_ossmetrics.png
 
 * Welcome to the Open Source Business Metrics community!
 
