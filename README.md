@@ -1,5 +1,7 @@
 # [opensourcemetrics.org](https://opensourcemetrics.org)
 
+![Discord](https://img.shields.io/discord/1073222583744483358?color=blue)
+
 Welcome to the source for the the Open Source Business Metrics community site!
 
 This site offers a comprehensive overview of recommended metrics to track and measure commercial open source projects and businesses, as well as a compilation of related guides, blogs, podcasts, and other related content. Feel free to read the guide, submit resources, share links - we'd love to hear from you.

@@ -72,9 +72,11 @@
 
 <script type="text/javascript">
  
- fetch('https://scarf.gateway.scarf.sh/opensourcemetrics.org/' + encodeURIComponent((document.referrer || '').split('/')[2]),
-       {method: 'POST', mode: 'no-cors'})
-    .catch(() => {})
+ if (window.location.href.indexOf("localhost") === -1) {
+     fetch('https://scarf.gateway.scarf.sh/opensourcemetrics.org/' + encodeURIComponent((document.referrer || '').split('/')[2]),
+           {method: 'POST', mode: 'no-cors'})
+         .catch(() => {})
+ }
 </script>
 
 
@@ -99,6 +101,10 @@
   <li class="menu__trigger">Menu&nbsp;▾</li>
   <li>
     <ul class="menu__dropdown">
+      
+        
+          <li><a href="https://discord.gg/7HvFURHxAM">Discord</a></li>
+        
       
         
           <li><a href="/metrics/">Explore Metrics</a></li>
@@ -132,6 +138,10 @@
     <nav class="navigation-menu">
   <ul class="navigation-menu__inner menu--desktop">
     
+      
+        
+          <li><a href="https://discord.gg/7HvFURHxAM">Discord</a></li>
+        
       
         
           <li><a href="/metrics/">Explore Metrics</a></li>
