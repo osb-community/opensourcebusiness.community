@@ -8,16 +8,22 @@
       "YoutubeLink": "https://www.youtube.com/embed/-qPoneOueHc",
       "ExampleGraph": "",
       "MainImage": "/images/OSS_Metrics_-_Intro.png",
+	  "Cover": "/images/OSS_Metrics_-_Intro.png",
       "Thumbnail": "",
       "Description": "Isn’t open source largely tracked via contributor usage? Should GitHub-esque metrics remain the de facto standard for project health, adoption, and growth? The answer to both questions is no. Contributor metrics are great, but they don’t predict the commercial success of a product. Having more contributors than other similar projects may look good on paper, but that doesn’t denote users. Similarly, an increase in the number of contributors, pull requests, or issues on GitHub does not mean your project's user base is growing. It could even indicate the opposite. Growing the contributor base is certainly a directionally helpful indicator of a project's health and adoption, but it does not always directly correlate, nor is it a comprehensive measure considering all the other factors to take into account. So, what metrics should you look at to understand the overall growth of your project? ",
       "Goal": "TBD",
       "External_Links": [
-        "TBD"
+        "[[https://opensource.guide/finding-users/][Finding Users for your Open Source Project - Opensource.Guide]]"
       ],
       "Example_Metrics": [
-        "TBD"
+        "Contributor Metrics",
+		"Website Metrics",
+		"Social Metrics",
+		"Share of Voice",
+		"Signups"
       ],
       "Example_Tools": [
+	    "Tools will vary depending on the metrics"
       ]
     },
     {
@@ -211,7 +217,7 @@
       "MainImage": "/images/OSS_Metrics_-_Adoption_Metrics.png",
       "Thumbnail": "",
       "Description": "Once a user shows interest, the next step is to encourage a download, grabbing of a Docker container, or grabbing of the source code itself to experiment with. This is the first time when your product can speak for itself. For a project maintainer or owner, this is also the first concrete step for increasing project adoption. \n \n \n The disadvantage in this phase is the difficulty of collecting data because the default tends to be anonymity. In many cases, it is challenging to collect and measure the data without a third-party tool or service. \n \n \n Nevertheless, there are ways to work with what you have. You can review the metrics outlined below to get a sense of how usage of your product is trending.",
-      "Goal": " ",
+      "Goal": " Overall growing open source adoption gives more potential users who maybe willing to pay for your services or software in the future.",
       "External_Links": [
         "https://powerdigitalmarketing.com/blog/measuring-and-understanding-social-reach-vs-impression/",
         "https://en.wikipedia.org/wiki/Social_media_reach",
@@ -220,7 +226,7 @@
       "Example_Metrics": [
       ],
       "Example_Tools": [
-        "[[PostHog][https://posthog.com]]",
+        "[[https://posthog.com][PostHog]]",
         "[[https://scarf.sh][Scarf]]",
         "pend.io"
       ]
@@ -286,11 +292,12 @@
       "YoutubeLink": "https://www.youtube.com/embed/bExCbd_zptA",
       "ExampleGraph": "",
       "MainImage": "/images/OSS_Metrics_-_Net_New_Users.png",
+	  "Cover": "/images/OSS_Metrics_-_Net_New_Users.png",
       "Thumbnail": "",
       "Description": "This one is quite straightforward. It is essential to understand how many new people are trying your software.",
       "Goal": " Focusing on net new users is a good practice. Often we see people downloading or using from the same small pool.  The new new users downloading your software the more people entering your community. ",
       "External_Links": [
-        "TBD"
+        "Learn from SaaS Companies in this quick post:  https://userpilot.com/blog/how-to-grow-active-users/"
       ],
       "Example_Metrics": [
         "# of total users -vs- # of repeat users -vs- number of net new users",
@@ -313,7 +320,7 @@
       "Description": "If you have a SaaS offering and a free tier, you’ll automatically have a concrete metric for knowing how many people are experimenting with your product because it will require a signup to get started. What is more, users will likely tell you who they are during the onboarding process because of the information that you ask them to enter when signing up. \n \n \n Once you have a solid understanding of how your product is used, the next step is to analyze behavior that precedes conversion. ",
       "Goal": "Get more signups unlocks a ton of new opportunities.",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
         "# of signups",
@@ -337,7 +344,7 @@
       "Description": "You need to track how those finding you are eventually converting to users of your product. Understanding which activities lead to more people downloading and trying your software helps you prioritize high value activities.  Some examples:  \n \n \n *Page, docs, or source-to-download conversion ratios: * \n \n \n You should know what leads a user to download. Understanding which content, pages, docs, or other sources or channels users visit before deciding to download helps you optimize and increase those numbers because you get a better sense of what your target audience seeks. \n \n \n *Docs views from those who have already downloaded* \n \n \n We’ve talked above about the need to track documentation and website traffic, but it is also important to track views from those who have already downloaded your software or packages. Some users may only download once and often deploy from that single download. This means that the actual deployments or usage of your software may be hidden behind a single download number.  Tracking downloads and continued engagement on the website and from docs will reveal continued usage.",
       "Goal": "You want to analyze which actvities and sources are leading to more users so you can optimize those channels more effectively.",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
         "Traffic to website or docs to download metrics",
@@ -359,9 +366,9 @@
       "MainImage": "/images/OSS_Metrics_-_Redownloads.png",
       "Thumbnail": "",
       "Description": "The same users downloading your software over and over again shows ongoing usage and possible growth of the number of installs. This number and rate of downloads can also help determine changes to deployments or the overall install base that may occur. ",
-      "Goal": "TBD",
+      "Goal": "You want to see more people downloading newer versions of your software over time.  The more times they are grabbing software from you the higher probabily they see value in it and maybe willing to engage in a commercial relationship.",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
         "# redownloads ( over time )",
@@ -384,7 +391,7 @@
       "Description": "*Users still active 90 days after their first install:* The best predictor for potential production usage or a possible future customer is ongoing usage. You want users to still actively use the software 90 days after downloading and installing it, and to do so after 180 days is even better. If the number of users who drop off before 90 days is high, then either the value of the software may be too low or the barrier of entry may be too high. To track active instances or uses of the software, you can use some lightweight telemetry  or in the absence of that, repeated downloads. \n \n \n *Companies and organizations using the software for more than six months:* Whereas the above metric focuses on users, this metric focuses on the total number of users at a single company or organization. Multiple users at the same company might be downloading and using the software. If you know that multiple users from the same company use your product repeatedly, that is a powerful indicator of potential growth.",
       "Goal": "Ultimately you want those who downloaded or tried your software to still be using your software after x months.",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
         "# users active for over 90 days",
@@ -406,15 +413,19 @@
       "MainImage": "/images/OSS_Metrics_-_Correlated_Metrics.png",
       "Thumbnail": "",
       "Description": "Another powerful indicator of potential customers is the number of those who download your product and then open issues in GitHub or commit code to your repositories. ",
-      "Goal": "TBD",
+      "Goal": "Engaged users are less likely to churn or explore other objects.  If a user not only uses your software on the regaular basis but is asking questions and contributing the more likely they will stay users. ",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
         "# of people or orgs that have downloaded and then down something in your issue tracker or repo"
       ],
       "Example_Tools": [
-        "TBD"
+        "[[https://commonroom.io][Common Room]]",
+        "[[https://orbit.love][Orbit]]",
+        "[[https://devlake.apache.org][Apache DevLake]]",
+        "[[https://merico.dev][Merico]]",
+        "[[https://opensauced.pizza][OpenSauced]]"
       ]
     },
     {
@@ -429,7 +440,7 @@
       "Description": "The best way to track growth is to understand how many companies and users actively use your software and whether they are increasing or decreasing the number of active deployments. You want to know the number of active instances, the number of new instances running in the last X days, the number of churned instances, etc.  ",
       "Goal": " ",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
         "# of new instances",
@@ -453,7 +464,9 @@
       "Description": "Every company tracks a set of business metrics that they review on a regular basis, which may include metrics such as annual or monthly recurring revenue (ARR or MRR), the number of customers, and net revenue. Open source specific metrics complement these standard business ones. A thriving open source business will focus on both, together with the acquisition of net new customers and retention of existing customers. Consider taking a closer look at these as you seek to evaluate the bottom of your open source funnel.",
       "Goal": "You are looking for the critical indicators that your business is growing. ",
       "External_Links": [
-        "TBD"
+        "https://www.forbes.com/sites/martinzwilling/2011/09/28/10-metrics-every-growing-business-must-keep-an-eye-on/",
+		"https://www.scoro.com/blog/12-business-metrics/",
+		"https://www.maxio.com/blog/saas-metrics"
       ],
       "Example_Metrics": [
         "# of customers",
@@ -464,7 +477,7 @@
         "Net Revnue Retention"
       ],
       "Example_Tools": [
-        "TBD"
+        "Be the first to add a tool"
       ]
     },
     {
@@ -479,14 +492,14 @@
       "Description": "The ratio of users to paying customers is one of the top five metrics that you should track and constantly look to improve. You can acquire customers by increasing the overall number of users and improving the conversion rate. Early on, you may find it easier to increase the overall users by orders of magnitude, but as the market changes, the growth rate slows down as you capture more and more of the available market. This is why converting users to customers is critical.  ",
       "Goal": "Understand and optimize turning open source users into paying customers.",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
         "# open source users -vs- # of paying customers",
         "sources for conversion"
       ],
       "Example_Tools": [
-        "TBD"
+        "Be the first to add a tool"
       ]
     },
     {
@@ -499,15 +512,19 @@
       "MainImage": "/images/OSS_Metrics_-_Customer_Churn.png",
       "Thumbnail": "",
       "Description": "Once you know the number of instances of your software running in unique organizations, you can identify dwindling counts of installed or running instances, which can foreshadow the potential churn of a customer. Decreases in the number of users or instances may indicate issues within the software or losses to competition.  ",
-      "Goal": "TBD",
+      "Goal": "You want people who deploy and use your software to continue using your software on a regular and ongoing basis.  While you should expect some loss of running instances, a healthy business sees these offset by additional instances being added. ",
       "External_Links": [
-        "TBD"
+        "Be the first to submit a link"
       ],
       "Example_Metrics": [
-        "TBD"
+        "Number of Active Instances",
+		"Number of Instances Lost/Churned",
+		"Number of instances added at known customers/users",
+		"Number of instances added/gained",
+		"Net Instance Churn"
       ],
       "Example_Tools": [
-        "TBD"
+        "Be the first to add a tool"
       ]
     },
     {
@@ -520,15 +537,18 @@
       "MainImage": "/images/OSS_Metrics_-_Customer_Advocates.png",
       "Thumbnail": "",
       "Description": "Earlier we highlighted the significance of tracking contributors (whether it’s code contributions or evangelism), but it is also important to segment out and track paying customers. Paying customers who are active in your community are a valuable source of feedback and help instill confidence in potential users and customers. ",
-      "Goal": "TBD",
+      "Goal": "You want lots of passionate users and customers who will not only promote your software, but will work with you to make it better. You want to see this conintuing to grow.",
       "External_Links": [
-        "TBD"
+        "[[https://fosdem.org/2023/schedule/event/building_external_evangelists/][Building External Evangelists]]"
       ],
       "Example_Metrics": [
-        "TBD"
+        "The number of external evangelists",
+		"Tier 1/2/3 evangelists", 
+		"New External Content from customers", 
+		"Talks by or with customers"
       ],
       "Example_Tools": [
-        "TBD"
+        "Be the first to add a tool"
       ]
     },
     {
@@ -543,13 +563,15 @@
       "Description": "Check if your key users and customers are contributing to your competitive open source products (i.e. PR's or issues opened in other projects). Their behavior will serve as a useful predictor of potential churn. ",
       "Goal": "Get ahead of potential lost customers.",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
-        "TBD"
+        "# of customers at risk",
+		"# of customers/users contributing to competing projects", 
+		"ARR at Risk"
       ],
       "Example_Tools": [
-        "TBD"
+        "Be the first to add a tool"
       ]
     },
     {
@@ -562,15 +584,15 @@
       "MainImage": "/images/OSS_Metrics_-_Recaps.png",
       "Thumbnail": "",
       "Description": "Not every department or team will value all of the above metrics the same, but these metrics as a whole do track the various stages of the user and customer lifecycle. Based on these metrics, you can gauge the overall interest in an open source project and determine if your decisions result in further adoption. Marketing and sales can ensure a growing funnel and close more deals. VC firms can evaluate business performance and receive assurance that their investments produce promising ROI. What is more, you can use the insights to improve your product and better satisfy the needs of your target audience. \n \n \n Even though open source has existed for a while, the playbook for open source done right is still in the making and ever evolving. Despite three major models repeatedly emerging in the space, there truly is no traditional path for the open source business. Yet the need to account for growth, as with any company, still applies. \n \n \n Measuring the interest, adoption, and growth of open source projects extends beyond just contributors. It is important to triangulate key metrics within each stage of the open source funnel to draw meaningful analysis and conclusions that can help you understand how users are progressing through the customer journey. One of the many beauties of open source is that it provides a broad user base by opening up the technology to anyone and everyone who takes interest thanks to virtually no financial barrier to entry, or any barrier at all! To that end, if you can appeal to loyal existing users and find a way to both monetize and augment their usage, the possibilities could be exceedingly beneficial and worth billions of dollars. Open source creators plus data-driven insights make for a powerful combination.",
-      "Goal": " ",
+      "Goal": "Use all the metrics to pick the meaningful ones to your business",
       "External_Links": [
-        "TBD"
+        "Be the first to add a link"
       ],
       "Example_Metrics": [
-        "TBD"
+        "All the metrics in this guide!"
       ],
       "Example_Tools": [
-        "TBD"
+        "Be the first to add a tool"
       ]
     }
   ]
