@@ -12,6 +12,7 @@ googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmN
 guests: [Avi Press, Matt Yonkovit, Bart Farrell]
 episode: 12
 thumbnail: "/images/Podcasts/Ep12_thumb.png"
+cover: "/images/Podcasts/Ep12_thumb.png"
 description: "Bart Farrell stops by the podcast to chat about open source, community, Kubernetes, and getting started in open source.  Bart comes from a non-traditional background in the tech space but has found a passion for building communities, storytelling, and helping others within the Data in Kubernetes (DOK) community.  During our chat, Bart talks about getting started in open source, imposter syndrome, what worked and did not work content-wise, why trust is so important,  building a diverse community, and more."
 ---
 
