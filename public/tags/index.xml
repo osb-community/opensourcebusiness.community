@@ -19,11 +19,11 @@
     </item>
     
     <item>
-      <title>Federal</title>
-      <link>https://opensourcemetrics.org/tags/federal/</link>
+      <title>Foundations</title>
+      <link>https://opensourcemetrics.org/tags/foundations/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/tags/federal/</guid>
+      <guid>https://opensourcemetrics.org/tags/foundations/</guid>
       <description></description>
       <content></content>
     </item>
@@ -39,6 +39,16 @@
     </item>
     
     <item>
+      <title>Kubernetes</title>
+      <link>https://opensourcemetrics.org/tags/kubernetes/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/kubernetes/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>Open Source</title>
       <link>https://opensourcemetrics.org/tags/open-source/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
@@ -49,9 +59,19 @@
     </item>
     
     <item>
+      <title>Federal</title>
+      <link>https://opensourcemetrics.org/tags/federal/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/federal/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>Sales</title>
       <link>https://opensourcemetrics.org/tags/sales/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcemetrics.org/tags/sales/</guid>
       <description></description>
