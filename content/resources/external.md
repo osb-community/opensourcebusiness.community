@@ -27,6 +27,7 @@ date: 2023-01-20
 - The home of the Chaoss community which is all about open source metrics of all kinds: https://chaoss.community/
 - Need to pick a license?  check out : https://choosealicense.com/licenses/
 - Another good resource when looking at licenses: https://snyk.io/learn/open-source-licenses/
+- A good guide for starting an oss business from the VC perspective: https://www.field-guide.unusual.vc/field-guide-enterprise/start-an-open-source-software-company
 
 ### Other Resources ###
 - Free access to the book Open Source Law, Policy, and Practice:  https://amandabrock.com/books/
