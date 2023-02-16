@@ -1,6 +1,6 @@
 # [opensourcemetrics.org](https://opensourcemetrics.org)
 
-![https://discord.gg/7HvFURHxAM](https://img.shields.io/discord/1073222583744483358?color=blue)
+[![Discord](https://img.shields.io/discord/1073222583744483358?color=blue)](https://discord.gg/7HvFURHxAM)
 
 Welcome to the source for the the Open Source Business Metrics community site!
 
