@@ -482,7 +482,7 @@
     },
     {
       "key1": "customer_conversion_ratios",
-      "Name": "Customer Conversion Rations",
+      "Name": "Customer Conversion Ratios",
       "MetricGroup": "Convserion Ratio",
       "FunnelPhase": "Customer",
       "YoutubeLink": "https://www.youtube.com/embed/X1_T__1lFi8",
