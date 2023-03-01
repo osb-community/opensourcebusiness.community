@@ -3,10 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://opensourcemetrics.org/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opensourcemetrics.org/tags/community/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/events/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/growth/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/licensing/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/open-source/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep17/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/podcasts/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/regulation/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/bootstrapped/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/goto-market/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/nextcloud/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep16/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/sovereign-cloud/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/business/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/economy/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/tags/layoffs/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep15/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opensourcemetrics.org/tags/foundations/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
@@ -14,19 +65,7 @@
     <loc>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep14/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://opensourcemetrics.org/tags/goto-market/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://opensourcemetrics.org/tags/kubernetes/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://opensourcemetrics.org/tags/open-source/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://opensourcemetrics.org/podcasts/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://opensourcemetrics.org/tags/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opensourcemetrics.org/tags/federal/</loc>
@@ -119,9 +158,6 @@
     <loc>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep7/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://opensourcemetrics.org/tags/business/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://opensourcemetrics.org/tags/database/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -144,9 +180,6 @@
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opensourcemetrics.org/tags/funding/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://opensourcemetrics.org/tags/layoffs/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opensourcemetrics.org/tags/marketing/</loc>
@@ -186,9 +219,6 @@
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep1/</loc>
-    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://opensourcemetrics.org/tags/licensing/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opensourcemetrics.org/tags/sspl/</loc>

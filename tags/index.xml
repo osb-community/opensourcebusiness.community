@@ -7,13 +7,133 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community</title>
       <link>https://opensourcemetrics.org/tags/community/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcemetrics.org/tags/community/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://opensourcemetrics.org/tags/events/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/events/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>https://opensourcemetrics.org/tags/growth/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/growth/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Licensing</title>
+      <link>https://opensourcemetrics.org/tags/licensing/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/licensing/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://opensourcemetrics.org/tags/open-source/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/open-source/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Regulation</title>
+      <link>https://opensourcemetrics.org/tags/regulation/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/regulation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Bootstrapped</title>
+      <link>https://opensourcemetrics.org/tags/bootstrapped/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/bootstrapped/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Goto Market</title>
+      <link>https://opensourcemetrics.org/tags/goto-market/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/goto-market/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Nextcloud</title>
+      <link>https://opensourcemetrics.org/tags/nextcloud/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/nextcloud/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Sovereign Cloud</title>
+      <link>https://opensourcemetrics.org/tags/sovereign-cloud/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/sovereign-cloud/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://opensourcemetrics.org/tags/business/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/business/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>https://opensourcemetrics.org/tags/economy/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/economy/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Layoffs</title>
+      <link>https://opensourcemetrics.org/tags/layoffs/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/tags/layoffs/</guid>
       <description></description>
       <content></content>
     </item>
@@ -29,31 +149,11 @@
     </item>
     
     <item>
-      <title>Goto Market</title>
-      <link>https://opensourcemetrics.org/tags/goto-market/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcemetrics.org/tags/goto-market/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Kubernetes</title>
       <link>https://opensourcemetrics.org/tags/kubernetes/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcemetrics.org/tags/kubernetes/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Open Source</title>
-      <link>https://opensourcemetrics.org/tags/open-source/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcemetrics.org/tags/open-source/</guid>
       <description></description>
       <content></content>
     </item>
@@ -139,16 +239,6 @@
     </item>
     
     <item>
-      <title>Business</title>
-      <link>https://opensourcemetrics.org/tags/business/</link>
-      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcemetrics.org/tags/business/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Database</title>
       <link>https://opensourcemetrics.org/tags/database/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
@@ -204,16 +294,6 @@
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcemetrics.org/tags/funding/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Layoffs</title>
-      <link>https://opensourcemetrics.org/tags/layoffs/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcemetrics.org/tags/layoffs/</guid>
       <description></description>
       <content></content>
     </item>
@@ -304,16 +384,6 @@
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcemetrics.org/tags/bsl/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Licensing</title>
-      <link>https://opensourcemetrics.org/tags/licensing/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcemetrics.org/tags/licensing/</guid>
       <description></description>
       <content></content>
     </item>

@@ -7,7 +7,101 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Deep Dive W/Peter Zaitsev: Adoption, Event Strategy, Government Regulation, &amp; Licensing</title>
+      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep17/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep17/</guid>
+      <description>Transcription In this episode: 00:00:00 Intro: Coming Up 00:00:32 From SOOCon23: Welcome Peter Zaitsev to the show 00:02:39 How does Peter choose which conferences to attend? 00:04:22 As an executive, how much time do you spend going to conferences? 00:05:55 Lots of conferences you can attend, but which ones are valuable? 00:07:03 Advice: How to get chosen to speak at a conference 00:11:29 Avoiding the sales pitch conference talk: submit talks that solve a problem 00:13:35 Renegade Underdogs: Peter&amp;rsquo;s new venture into helping founders and open source projects 00:17:47 The most common questions from founders center on how to accelerate growth 00:20:09 Classic Open Source Business Problem: millions of users and no one will pay for anything 00:23:42 Many projects start off as an underwhelming product, but bring an X factor that makes them successful 00:25:49 Setting the proper expectations for your open source business, growth, and adoption 00:27:39 Government regulation and funding in open source 00:29:17 What would it even mean to regulate open source?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:
+00:00:00 Intro: Coming Up
+00:00:32 From SOOCon23: Welcome Peter Zaitsev to the show
+00:02:39 How does Peter choose which conferences to attend?
+00:04:22 As an executive, how much time do you spend going to conferences?
+00:05:55 Lots of conferences you can attend, but which ones are valuable?
+00:07:03 Advice: How to get chosen to speak at a conference
+00:11:29 Avoiding the sales pitch conference talk: submit talks that solve a problem
+00:13:35 Renegade Underdogs: Peter&amp;rsquo;s new venture into helping founders and open source projects
+00:17:47 The most common questions from founders center on how to accelerate growth
+00:20:09 Classic Open Source Business Problem: millions of users and no one will pay for anything
+00:23:42 Many projects start off as an underwhelming product, but bring an X factor that makes them successful
+00:25:49 Setting the proper expectations for your open source business, growth, and adoption
+00:27:39 Government regulation and funding in open source
+00:29:17 What would it even mean to regulate open source?
+00:32:42 Paying Maintainers, giving grants, or subsidies
+00:37:53 Back to open source licenses, lets deep dive this time: do we need more open source licenses?
+00:48:01 AGPL: good or bad?
+00:52:29 Good Bye!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source, Sovereign Cloud, &amp; Business with Nextcloud Founder &amp; CEO Frank Karlitschek</title>
+      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep16/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep16/</guid>
+      <description>Transcription In this episode: 00:00:00 Coming up next on the podcast: VC Expectations 00:00:47 Intro: Welcome Frank, CEO of Nextcloud 00:01:39 Learning about Nextcloud 00:02:44 Branding as the open source version of X 00:03:43 Where did you get the idea for Nextcloud? 00:04:57 Business or Project? What was the end goal? 00:06:13 Deciding on business, pricing, &amp;amp; support models 00:08:03 Figuring out the core demographic, planning for growth, and sometimes getting it wrong 00:09:17 Why is the sovereign cloud important 00:11:05 The first contributor, accelerating contributions, and hiring contributors 00:12:29 100% bootstrapped, no external investors 00:14:07 How do big organizations or governments affect the roadmap for an open source project?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:
+00:00:00 Coming up next on the podcast: VC Expectations
+00:00:47 Intro: Welcome Frank, CEO of Nextcloud
+00:01:39 Learning about Nextcloud
+00:02:44 Branding as the open source version of X
+00:03:43 Where did you get the idea for Nextcloud?
+00:04:57 Business or Project? What was the end goal?
+00:06:13 Deciding on business, pricing, &amp;amp; support models
+00:08:03 Figuring out the core demographic, planning for growth, and sometimes getting it wrong
+00:09:17 Why is the sovereign cloud important
+00:11:05 The first contributor, accelerating contributions, and hiring contributors
+00:12:29 100% bootstrapped, no external investors
+00:14:07 How do big organizations or governments affect the roadmap for an open source project?
+00:16:22 Lessons learned from dealing both with consumers and businesses
+00:17:36 What advice would you tell your younger self? Don&amp;rsquo;t accept the way things are!
+00:20:15 How do you decentralize the cloud?
+00:21:36 Cloud lock-in
+00:22:25 Rapid Fire Questions!
+00:23:01 Favorite open source tool
+00:23:21 First Linux distro
+00:24:27 Conference walk up music
+00:25:36 Favorite beverage
+00:26:27 What is new and exciting in the open source space
+00:27:38 Thoughts on AI &amp;amp; Copilot
+00:29:39 Favorite food
+00:30:01 Thank you!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>WTF is up with all these Tech Layoffs? Is the Economy Finally Impacting Open Source? Ep15 </title>
+      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep15/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep15/</guid>
+      <description>Transcription Chapters: 00:00:00 On Today&amp;rsquo;s Episode 00:00:38 WTF is Happening 00:04:50 A Bad business model or correction? 00:07:34 Is this a result of the growth at all costs mentality? 00:11:49 Is this like the previous .com booms and busts? 00:13:55 Are open source developers taking the brunt of layoffs? 00:17:09 Open source companies seeing layoffs as well 00:20:35 Maybe starting focuing on efficiency and profitability before layoffs? 00:22:01 Slow growth or fast growth 00:24:47 The incubator team 00:28:30 Freemium vs open source models 00:31:01 Other budget cuts to events, sponsorships, budgets 00:33:02 More layoff news from the web: meta, Twillio 00:33:19 Core JS Discussion 00:35:16 Open Source Lawsuites?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;Chapters:
+00:00:00 On Today&amp;rsquo;s Episode
+00:00:38 WTF is Happening
+00:04:50 A Bad business model or correction?
+00:07:34 Is this a result of the growth at all costs mentality?
+00:11:49 Is this like the previous .com booms and busts?
+00:13:55 Are open source developers taking the brunt of layoffs?
+00:17:09 Open source companies seeing layoffs as well
+00:20:35 Maybe starting focuing on efficiency and profitability before layoffs?
+00:22:01 Slow growth or fast growth
+00:24:47 The incubator team
+00:28:30 Freemium vs open source models
+00:31:01 Other budget cuts to events, sponsorships, budgets
+00:33:02 More layoff news from the web: meta, Twillio
+00:33:19 Core JS Discussion
+00:35:16 Open Source Lawsuites? Neo4J &amp;amp; the AGPL&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>From Mesos to Kubernetes: Talking Open Source with D2iQ Founder Ben Hindman</title>
       <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep14/</link>
