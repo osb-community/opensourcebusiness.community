@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recap on Open Source Business Metrics</title>
-    <link>https://opensourcemetrics.org/tags/recap/</link>
-    <description>Recent content in Recap on Open Source Business Metrics</description>
+    <title>Recap on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/tags/recap/</link>
+    <description>Recent content in Recap on Open Source Business Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright><atom:link href="https://opensourcemetrics.org/tags/recap/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023 Open Source Business Community</copyright><atom:link href="https://opensourcebusiness.community/tags/recap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source Business Metrics Recap</title>
-      <link>https://opensourcemetrics.org/metrics/final_thoughts/</link>
+      <link>https://opensourcebusiness.community/metrics/final_thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/final_thoughts/</guid>
+      <guid>https://opensourcebusiness.community/metrics/final_thoughts/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics Recap</title>
-      <link>https://opensourcemetrics.org/metrics/recap/</link>
+      <link>https://opensourcebusiness.community/metrics/recap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/recap/</guid>
+      <guid>https://opensourcebusiness.community/metrics/recap/</guid>
       <description></description>
       <content></content>
     </item>

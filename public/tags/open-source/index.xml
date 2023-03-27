@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source on Open Source Business Metrics</title>
-    <link>https://opensourcemetrics.org/tags/open-source/</link>
-    <description>Recent content in Open Source on Open Source Business Metrics</description>
+    <title>Open Source on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/tags/open-source/</link>
+    <description>Recent content in Open Source on Open Source Business Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source Deep Dive W/Peter Zaitsev: Adoption, Event Strategy, Government Regulation, &amp; Licensing</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep17/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep17/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep17/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep17/</guid>
       <description>Transcription In this episode: 00:00:00 Intro: Coming Up 00:00:32 From SOOCon23: Welcome Peter Zaitsev to the show 00:02:39 How does Peter choose which conferences to attend? 00:04:22 As an executive, how much time do you spend going to conferences? 00:05:55 Lots of conferences you can attend, but which ones are valuable? 00:07:03 Advice: How to get chosen to speak at a conference 00:11:29 Avoiding the sales pitch conference talk: submit talks that solve a problem 00:13:35 Renegade Underdogs: Peter&amp;rsquo;s new venture into helping founders and open source projects 00:17:47 The most common questions from founders center on how to accelerate growth 00:20:09 Classic Open Source Business Problem: millions of users and no one will pay for anything 00:23:42 Many projects start off as an underwhelming product, but bring an X factor that makes them successful 00:25:49 Setting the proper expectations for your open source business, growth, and adoption 00:27:39 Government regulation and funding in open source 00:29:17 What would it even mean to regulate open source?</description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 &lt;p&gt;In this episode:
@@ -40,10 +40,10 @@
     
     <item>
       <title>Open Source, Sovereign Cloud, &amp; Business with Nextcloud Founder &amp; CEO Frank Karlitschek</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep16/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep16/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep16/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep16/</guid>
       <description>Transcription In this episode: 00:00:00 Coming up next on the podcast: VC Expectations 00:00:47 Intro: Welcome Frank, CEO of Nextcloud 00:01:39 Learning about Nextcloud 00:02:44 Branding as the open source version of X 00:03:43 Where did you get the idea for Nextcloud? 00:04:57 Business or Project? What was the end goal? 00:06:13 Deciding on business, pricing, &amp;amp; support models 00:08:03 Figuring out the core demographic, planning for growth, and sometimes getting it wrong 00:09:17 Why is the sovereign cloud important 00:11:05 The first contributor, accelerating contributions, and hiring contributors 00:12:29 100% bootstrapped, no external investors 00:14:07 How do big organizations or governments affect the roadmap for an open source project?</description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 &lt;p&gt;In this episode:
@@ -77,10 +77,10 @@
     
     <item>
       <title>WTF is up with all these Tech Layoffs? Is the Economy Finally Impacting Open Source? Ep15 </title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep15/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep15/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep15/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep15/</guid>
       <description>Transcription Chapters: 00:00:00 On Today&amp;rsquo;s Episode 00:00:38 WTF is Happening 00:04:50 A Bad business model or correction? 00:07:34 Is this a result of the growth at all costs mentality? 00:11:49 Is this like the previous .com booms and busts? 00:13:55 Are open source developers taking the brunt of layoffs? 00:17:09 Open source companies seeing layoffs as well 00:20:35 Maybe starting focuing on efficiency and profitability before layoffs? 00:22:01 Slow growth or fast growth 00:24:47 The incubator team 00:28:30 Freemium vs open source models 00:31:01 Other budget cuts to events, sponsorships, budgets 00:33:02 More layoff news from the web: meta, Twillio 00:33:19 Core JS Discussion 00:35:16 Open Source Lawsuites?</description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 &lt;p&gt;Chapters:
@@ -104,10 +104,10 @@
     
     <item>
       <title>From Mesos to Kubernetes: Talking Open Source with D2iQ Founder Ben Hindman</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep14/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep14/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep14/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep14/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -115,10 +115,10 @@
     
     <item>
       <title>Open Source Go to Market Strategies, Embracing Community, &amp; Growing Government Use w/ Ian Tien ep13</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep13/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep13/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep13/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep13/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -126,10 +126,10 @@
     
     <item>
       <title>Reaching People &amp; Building Community in the Open Source &amp; Kubernetes Ecosystem w/Bart Farrell Ep 12</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep12/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep12/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -137,10 +137,10 @@
     
     <item>
       <title>The Best Way to Measure your Open Source Community /w Guest Georg Link Ep 11</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep11/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep11/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -148,10 +148,10 @@
     
     <item>
       <title>Open Source In Govt, Software Curation, Security w/ Amanda Brock: Hacking Open Source Business Ep 10</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep10/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep10/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep10/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep10/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -159,10 +159,10 @@
     
     <item>
       <title>Bootstrapping your Startup, Stepping down as CEO, What&#39;s Next In Open Source w/ Peter Zaitsev Ep 7</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep7/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep7/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep7/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep7/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -170,10 +170,10 @@
     
     <item>
       <title>Talking Tigris Data, a New Open Source Developer Data Platform: Hacking Open Source Business Ep 6</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep6/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep6/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep6/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep6/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -181,10 +181,10 @@
     
     <item>
       <title>Chatting Copilot, Tech Layoffs, Open Source, and More - Hacking Open Source Business Podcast: Ep 5</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep5/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep5/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep5/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep5/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -192,10 +192,10 @@
     
     <item>
       <title>Messaging &amp; Positioning an Open Source Product - How to Figure out if your Open Source Project Sucks. Ep 4</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep4/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep4/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep4/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep4/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -203,10 +203,10 @@
     
     <item>
       <title>Open Source VC Funding: Insider View from Joseph Jacks (OSS Capital) - Hacking Open Source Business</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep3/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep3/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep3/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep3/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -214,10 +214,10 @@
     
     <item>
       <title>The Heroic Labs Open Source Journey- Moving their Business from Proprietary to Open Source Ep 2</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep2/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep2/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep2/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep2/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>

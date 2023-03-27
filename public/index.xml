@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source Business Metrics</title>
-    <link>https://opensourcemetrics.org/</link>
-    <description>Recent content on Open Source Business Metrics</description>
+    <title>Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/</link>
+    <description>Recent content on Open Source Business Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source Deep Dive W/Peter Zaitsev: Adoption, Event Strategy, Government Regulation, &amp; Licensing</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep17/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep17/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep17/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep17/</guid>
       <description>Transcription In this episode: 00:00:00 Intro: Coming Up 00:00:32 From SOOCon23: Welcome Peter Zaitsev to the show 00:02:39 How does Peter choose which conferences to attend? 00:04:22 As an executive, how much time do you spend going to conferences? 00:05:55 Lots of conferences you can attend, but which ones are valuable? 00:07:03 Advice: How to get chosen to speak at a conference 00:11:29 Avoiding the sales pitch conference talk: submit talks that solve a problem 00:13:35 Renegade Underdogs: Peter&amp;rsquo;s new venture into helping founders and open source projects 00:17:47 The most common questions from founders center on how to accelerate growth 00:20:09 Classic Open Source Business Problem: millions of users and no one will pay for anything 00:23:42 Many projects start off as an underwhelming product, but bring an X factor that makes them successful 00:25:49 Setting the proper expectations for your open source business, growth, and adoption 00:27:39 Government regulation and funding in open source 00:29:17 What would it even mean to regulate open source?</description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 &lt;p&gt;In this episode:
@@ -40,10 +40,10 @@
     
     <item>
       <title>Open Source, Sovereign Cloud, &amp; Business with Nextcloud Founder &amp; CEO Frank Karlitschek</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep16/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep16/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep16/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep16/</guid>
       <description>Transcription In this episode: 00:00:00 Coming up next on the podcast: VC Expectations 00:00:47 Intro: Welcome Frank, CEO of Nextcloud 00:01:39 Learning about Nextcloud 00:02:44 Branding as the open source version of X 00:03:43 Where did you get the idea for Nextcloud? 00:04:57 Business or Project? What was the end goal? 00:06:13 Deciding on business, pricing, &amp;amp; support models 00:08:03 Figuring out the core demographic, planning for growth, and sometimes getting it wrong 00:09:17 Why is the sovereign cloud important 00:11:05 The first contributor, accelerating contributions, and hiring contributors 00:12:29 100% bootstrapped, no external investors 00:14:07 How do big organizations or governments affect the roadmap for an open source project?</description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 &lt;p&gt;In this episode:
@@ -77,10 +77,10 @@
     
     <item>
       <title>WTF is up with all these Tech Layoffs? Is the Economy Finally Impacting Open Source? Ep15 </title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep15/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep15/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep15/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep15/</guid>
       <description>Transcription Chapters: 00:00:00 On Today&amp;rsquo;s Episode 00:00:38 WTF is Happening 00:04:50 A Bad business model or correction? 00:07:34 Is this a result of the growth at all costs mentality? 00:11:49 Is this like the previous .com booms and busts? 00:13:55 Are open source developers taking the brunt of layoffs? 00:17:09 Open source companies seeing layoffs as well 00:20:35 Maybe starting focuing on efficiency and profitability before layoffs? 00:22:01 Slow growth or fast growth 00:24:47 The incubator team 00:28:30 Freemium vs open source models 00:31:01 Other budget cuts to events, sponsorships, budgets 00:33:02 More layoff news from the web: meta, Twillio 00:33:19 Core JS Discussion 00:35:16 Open Source Lawsuites?</description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 &lt;p&gt;Chapters:
@@ -104,10 +104,10 @@
     
     <item>
       <title>From Mesos to Kubernetes: Talking Open Source with D2iQ Founder Ben Hindman</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep14/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep14/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep14/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep14/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -115,10 +115,10 @@
     
     <item>
       <title>Open Source Go to Market Strategies, Embracing Community, &amp; Growing Government Use w/ Ian Tien ep13</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep13/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep13/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep13/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep13/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -126,10 +126,10 @@
     
     <item>
       <title>Reaching People &amp; Building Community in the Open Source &amp; Kubernetes Ecosystem w/Bart Farrell Ep 12</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep12/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep12/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -137,10 +137,10 @@
     
     <item>
       <title>External Resources</title>
-      <link>https://opensourcemetrics.org/resources/external/</link>
+      <link>https://opensourcebusiness.community/resources/external/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/resources/external/</guid>
+      <guid>https://opensourcebusiness.community/resources/external/</guid>
       <description>Open Source Events FOSDEM https://fosdem.org/ State of Open Con https://stateofopencon.com/ Open Source Summit NA/EMEA https://events.linuxfoundation.org/ Fossy https://sfconservancy.org/fossy/ All things Open https://www.allthingsopen.org/ Interesting Articles How to set an open source strategy: https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy Explaination of the open source supply chain: https://opensource.com/article/20/10/open-source-supply-chain Overview of different open source business models: https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/ Interesting Blogs Overview of successful open source business models: https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a Interesting Websites &amp;amp; communities Community for commercial open source companies: https://www.coss.community/ A collection of blogs and guides on building open source projects: https://opensource.</description>
       <content>&lt;h3 id=&#34;open-source-events&#34;&gt;Open Source Events&lt;/h3&gt;
 &lt;ul&gt;
@@ -181,70 +181,70 @@
     
     <item>
       <title>Open Source Business Metrics: Intro to Awareness</title>
-      <link>https://opensourcemetrics.org/metrics/intro_awareness/</link>
+      <link>https://opensourcebusiness.community/metrics/intro_awareness/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/intro_awareness/</guid>
+      <guid>https://opensourcebusiness.community/metrics/intro_awareness/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Repo Popularity Metrics</title>
-      <link>https://opensourcemetrics.org/metrics/repo_popularity_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/repo_popularity_metrics/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/repo_popularity_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/repo_popularity_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Share of Voice</title>
-      <link>https://opensourcemetrics.org/metrics/share_of_voice/</link>
+      <link>https://opensourcebusiness.community/metrics/share_of_voice/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/share_of_voice/</guid>
+      <guid>https://opensourcebusiness.community/metrics/share_of_voice/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Website Referrals</title>
-      <link>https://opensourcemetrics.org/metrics/website_referrals/</link>
+      <link>https://opensourcebusiness.community/metrics/website_referrals/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/website_referrals/</guid>
+      <guid>https://opensourcebusiness.community/metrics/website_referrals/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Website Traffic</title>
-      <link>https://opensourcemetrics.org/metrics/website_traffic/</link>
+      <link>https://opensourcebusiness.community/metrics/website_traffic/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/website_traffic/</guid>
+      <guid>https://opensourcebusiness.community/metrics/website_traffic/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Contributor Metrics</title>
-      <link>https://opensourcemetrics.org/metrics/contributor_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/contributor_metrics/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/contributor_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/contributor_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>The Best Way to Measure your Open Source Community /w Guest Georg Link Ep 11</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep11/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep11/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -252,10 +252,10 @@
     
     <item>
       <title>Open Source In Govt, Software Curation, Security w/ Amanda Brock: Hacking Open Source Business Ep 10</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep10/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep10/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep10/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep10/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -263,10 +263,10 @@
     
     <item>
       <title>Open Source Business Metrics Guide: How to Build, Grow, and Measure the Success of an Open Source Business</title>
-      <link>https://opensourcemetrics.org/posts/open-source-business-metrics-guide/</link>
+      <link>https://opensourcebusiness.community/posts/open-source-business-metrics-guide/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/posts/open-source-business-metrics-guide/</guid>
+      <guid>https://opensourcebusiness.community/posts/open-source-business-metrics-guide/</guid>
       <description>Open source has become one of the most recognized movements in technology in the last decade. Already 90% of IT leaders use enterprise open source software, and by 2026, the open source services market will be worth $50 billion. Based on the growth It is not surprising that the number of open source projects and businesses based around open source have skyrocketed over the past decade. While open source itself is not a business model, we can clearly identify business models built around open source licensing and philosophies that have proven sustainable, scalable, and profitable.</description>
       <content>
 &lt;p&gt;
@@ -396,7 +396,7 @@ Open core
  miles. The open core model operates similarly.&lt;/p&gt;
 &lt;p&gt;
  
-   &lt;img src=&#34;https://opensourcemetrics.org/images/1000000000000318000003112025EB7DED0EE1C9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+   &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000318000003112025EB7DED0EE1C9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
  
 &lt;/p&gt;
 &lt;p&gt;
@@ -436,7 +436,7 @@ SaaS/PaaS/XaaS
  you drive more miles than the lease allows, then you pay more.&lt;/p&gt;
 &lt;p&gt;
  
-   &lt;img src=&#34;https://opensourcemetrics.org/images/100000000000058A000002BB5B2CFEAA28EC936A.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+   &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000058A000002BB5B2CFEAA28EC936A.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
  
 &lt;/p&gt;
 &lt;p&gt;
@@ -502,7 +502,7 @@ The open source funnel differs from the classic marketing funnel, which
 looks something like this:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/1000000000000585000000E12B3211947FFAB7AC.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000585000000E12B3211947FFAB7AC.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -520,7 +520,7 @@ become customers and either become lost deals or closed won deals.&lt;/p&gt;
 In contrast, the open source funnel looks something like this:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/100002010000051D00000258A8939A1BBC9A166B.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/100002010000051D00000258A8939A1BBC9A166B.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -535,7 +535,7 @@ In companies focused on product-led growth, you may be more familiar
 with using the growth flywheel:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/100000000000051E000005183B9425511CE29FA9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000051E000005183B9425511CE29FA9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -548,7 +548,7 @@ The flywheel can also be applied to open source companies, as
 represented below:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/1000000000000307000002EADA41F831A6BA0FAE.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000307000002EADA41F831A6BA0FAE.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -1170,7 +1170,7 @@ Open source competitive analysis
  &lt;a href=&#34;https://opensourcemetrics.org/metrics/predictive_churn&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about predictive churn metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
  
-   &lt;img src=&#34;https://opensourcemetrics.org/images/100000000000060A0000035BD89F24088D3B336F.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+   &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000060A0000035BD89F24088D3B336F.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
  
 &lt;/p&gt;
 &lt;/div&gt;
@@ -1231,10 +1231,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Random Open Source News: Funding, Layoffs, Bugs, and Fortune Cookies - Ep 9</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep9/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep9/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep9/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep9/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1242,10 +1242,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>DevRel, Contributors, Metrics, &amp; Open Sauced w/ Brian Douglas: Hacking Open Source Business Ep8</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep8/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep8/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep8/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep8/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1253,10 +1253,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Bootstrapping your Startup, Stepping down as CEO, What&#39;s Next In Open Source w/ Peter Zaitsev Ep 7</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep7/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep7/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep7/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep7/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1264,10 +1264,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Talking Tigris Data, a New Open Source Developer Data Platform: Hacking Open Source Business Ep 6</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep6/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep6/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep6/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep6/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1275,10 +1275,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Chatting Copilot, Tech Layoffs, Open Source, and More - Hacking Open Source Business Podcast: Ep 5</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep5/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep5/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep5/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep5/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1286,10 +1286,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Messaging &amp; Positioning an Open Source Product - How to Figure out if your Open Source Project Sucks. Ep 4</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep4/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep4/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep4/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep4/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1297,10 +1297,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Open Source VC Funding: Insider View from Joseph Jacks (OSS Capital) - Hacking Open Source Business</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep3/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep3/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep3/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep3/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1308,10 +1308,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>The Heroic Labs Open Source Journey- Moving their Business from Proprietary to Open Source Ep 2</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep2/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep2/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep2/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep2/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1319,10 +1319,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Dropping Open Source for the BSL? - Hacking Open Source Business Podcast Episode 1!</title>
-      <link>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep1/</link>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep1/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/hacking_open_source_business_ep1/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep1/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1330,10 +1330,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>FLOSS Weekly 693 - Open Source Analytics with Scarf</title>
-      <link>https://opensourcemetrics.org/podcasts/flossweekly693/</link>
+      <link>https://opensourcebusiness.community/podcasts/flossweekly693/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/flossweekly693/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/flossweekly693/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1341,10 +1341,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Who&#39;s Looking At Your GitHub Project? | Avi Press of Scarf | The Secret Sauce Podcast</title>
-      <link>https://opensourcemetrics.org/podcasts/secretsauce_whoslookingatyourgithub/</link>
+      <link>https://opensourcebusiness.community/podcasts/secretsauce_whoslookingatyourgithub/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/secretsauce_whoslookingatyourgithub/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/secretsauce_whoslookingatyourgithub/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1352,10 +1352,10 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>CHAOSSCast Episode 53: Gathering Open Source Usage Data with Avi Press</title>
-      <link>https://opensourcemetrics.org/podcasts/chaosscastep53avipress/</link>
+      <link>https://opensourcebusiness.community/podcasts/chaosscastep53avipress/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/podcasts/chaosscastep53avipress/</guid>
+      <guid>https://opensourcebusiness.community/podcasts/chaosscastep53avipress/</guid>
       <description>Transcription </description>
       <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
 </content>
@@ -1363,180 +1363,180 @@ have any questions.&lt;/p&gt;
     
     <item>
       <title>Open Source Business Metrics Recap</title>
-      <link>https://opensourcemetrics.org/metrics/final_thoughts/</link>
+      <link>https://opensourcebusiness.community/metrics/final_thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/final_thoughts/</guid>
+      <guid>https://opensourcebusiness.community/metrics/final_thoughts/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics Recap</title>
-      <link>https://opensourcemetrics.org/metrics/recap/</link>
+      <link>https://opensourcebusiness.community/metrics/recap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/recap/</guid>
+      <guid>https://opensourcebusiness.community/metrics/recap/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Call Home Metrics</title>
-      <link>https://opensourcemetrics.org/metrics/call_home_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/call_home_metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/call_home_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/call_home_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Correated Repo &amp; Download</title>
-      <link>https://opensourcemetrics.org/metrics/merging_repo_download_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/merging_repo_download_metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/merging_repo_download_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/merging_repo_download_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Customer Advocates</title>
-      <link>https://opensourcemetrics.org/metrics/customer_advocates/</link>
+      <link>https://opensourcebusiness.community/metrics/customer_advocates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/customer_advocates/</guid>
+      <guid>https://opensourcebusiness.community/metrics/customer_advocates/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Customer Business Metrics</title>
-      <link>https://opensourcemetrics.org/metrics/customer_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/customer_metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/customer_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/customer_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Customer Conversion Ratios</title>
-      <link>https://opensourcemetrics.org/metrics/customer_conversion_ratios/</link>
+      <link>https://opensourcebusiness.community/metrics/customer_conversion_ratios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/customer_conversion_ratios/</guid>
+      <guid>https://opensourcebusiness.community/metrics/customer_conversion_ratios/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Download Metadata</title>
-      <link>https://opensourcemetrics.org/metrics/download_meta_data/</link>
+      <link>https://opensourcebusiness.community/metrics/download_meta_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/download_meta_data/</guid>
+      <guid>https://opensourcebusiness.community/metrics/download_meta_data/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Downloads</title>
-      <link>https://opensourcemetrics.org/metrics/download_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/download_metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/download_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/download_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Instance Churn</title>
-      <link>https://opensourcemetrics.org/metrics/churn_instances/</link>
+      <link>https://opensourcebusiness.community/metrics/churn_instances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/churn_instances/</guid>
+      <guid>https://opensourcebusiness.community/metrics/churn_instances/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Intro Adoption</title>
-      <link>https://opensourcemetrics.org/metrics/adoption_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/adoption_metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/adoption_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/adoption_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Net New Users</title>
-      <link>https://opensourcemetrics.org/metrics/net_new_users/</link>
+      <link>https://opensourcebusiness.community/metrics/net_new_users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/net_new_users/</guid>
+      <guid>https://opensourcebusiness.community/metrics/net_new_users/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Ongoing Usage</title>
-      <link>https://opensourcemetrics.org/metrics/ongoing_sustained_usage/</link>
+      <link>https://opensourcebusiness.community/metrics/ongoing_sustained_usage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/ongoing_sustained_usage/</guid>
+      <guid>https://opensourcebusiness.community/metrics/ongoing_sustained_usage/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Predictive Churn</title>
-      <link>https://opensourcemetrics.org/metrics/predictive_churn/</link>
+      <link>https://opensourcebusiness.community/metrics/predictive_churn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/predictive_churn/</guid>
+      <guid>https://opensourcebusiness.community/metrics/predictive_churn/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Redownload</title>
-      <link>https://opensourcemetrics.org/metrics/redownload_metrics/</link>
+      <link>https://opensourcebusiness.community/metrics/redownload_metrics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/redownload_metrics/</guid>
+      <guid>https://opensourcebusiness.community/metrics/redownload_metrics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Signups</title>
-      <link>https://opensourcemetrics.org/metrics/user_signups/</link>
+      <link>https://opensourcebusiness.community/metrics/user_signups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/user_signups/</guid>
+      <guid>https://opensourcebusiness.community/metrics/user_signups/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: Social Reach</title>
-      <link>https://opensourcemetrics.org/metrics/social_reach/</link>
+      <link>https://opensourcebusiness.community/metrics/social_reach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/social_reach/</guid>
+      <guid>https://opensourcebusiness.community/metrics/social_reach/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Open Source Business Metrics: User Conversion Ratios</title>
-      <link>https://opensourcemetrics.org/metrics/user_conversion_ratios/</link>
+      <link>https://opensourcebusiness.community/metrics/user_conversion_ratios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/metrics/user_conversion_ratios/</guid>
+      <guid>https://opensourcebusiness.community/metrics/user_conversion_ratios/</guid>
       <description></description>
       <content></content>
     </item>

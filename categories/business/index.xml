@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>business on Open Source Business Metrics</title>
-    <link>https://opensourcemetrics.org/categories/business/</link>
-    <description>Recent content in business on Open Source Business Metrics</description>
+    <title>business on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/categories/business/</link>
+    <description>Recent content in business on Open Source Business Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
-    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/categories/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source Business Metrics Guide: How to Build, Grow, and Measure the Success of an Open Source Business</title>
-      <link>https://opensourcemetrics.org/posts/open-source-business-metrics-guide/</link>
+      <link>https://opensourcebusiness.community/posts/open-source-business-metrics-guide/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/posts/open-source-business-metrics-guide/</guid>
+      <guid>https://opensourcebusiness.community/posts/open-source-business-metrics-guide/</guid>
       <description>Open source has become one of the most recognized movements in technology in the last decade. Already 90% of IT leaders use enterprise open source software, and by 2026, the open source services market will be worth $50 billion. Based on the growth It is not surprising that the number of open source projects and businesses based around open source have skyrocketed over the past decade. While open source itself is not a business model, we can clearly identify business models built around open source licensing and philosophies that have proven sustainable, scalable, and profitable.</description>
       <content>
 &lt;p&gt;
@@ -143,7 +143,7 @@ Open core
  miles. The open core model operates similarly.&lt;/p&gt;
 &lt;p&gt;
  
-   &lt;img src=&#34;https://opensourcemetrics.org/images/1000000000000318000003112025EB7DED0EE1C9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+   &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000318000003112025EB7DED0EE1C9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
  
 &lt;/p&gt;
 &lt;p&gt;
@@ -183,7 +183,7 @@ SaaS/PaaS/XaaS
  you drive more miles than the lease allows, then you pay more.&lt;/p&gt;
 &lt;p&gt;
  
-   &lt;img src=&#34;https://opensourcemetrics.org/images/100000000000058A000002BB5B2CFEAA28EC936A.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+   &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000058A000002BB5B2CFEAA28EC936A.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
  
 &lt;/p&gt;
 &lt;p&gt;
@@ -249,7 +249,7 @@ The open source funnel differs from the classic marketing funnel, which
 looks something like this:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/1000000000000585000000E12B3211947FFAB7AC.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000585000000E12B3211947FFAB7AC.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -267,7 +267,7 @@ become customers and either become lost deals or closed won deals.&lt;/p&gt;
 In contrast, the open source funnel looks something like this:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/100002010000051D00000258A8939A1BBC9A166B.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/100002010000051D00000258A8939A1BBC9A166B.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -282,7 +282,7 @@ In companies focused on product-led growth, you may be more familiar
 with using the growth flywheel:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/100000000000051E000005183B9425511CE29FA9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000051E000005183B9425511CE29FA9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -295,7 +295,7 @@ The flywheel can also be applied to open source companies, as
 represented below:&lt;/p&gt;
 &lt;p&gt;
 
-  &lt;img src=&#34;https://opensourcemetrics.org/images/1000000000000307000002EADA41F831A6BA0FAE.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+  &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000307000002EADA41F831A6BA0FAE.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;
@@ -917,7 +917,7 @@ Open source competitive analysis
  &lt;a href=&#34;https://opensourcemetrics.org/metrics/predictive_churn&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about predictive churn metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
  
-   &lt;img src=&#34;https://opensourcemetrics.org/images/100000000000060A0000035BD89F24088D3B336F.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+   &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000060A0000035BD89F24088D3B336F.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
  
 &lt;/p&gt;
 &lt;/div&gt;

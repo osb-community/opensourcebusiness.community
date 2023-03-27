@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resources on Open Source Business Metrics</title>
-    <link>https://opensourcemetrics.org/resources/</link>
-    <description>Recent content in Resources on Open Source Business Metrics</description>
+    <title>Resources on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/resources/</link>
+    <description>Recent content in Resources on Open Source Business Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023 Open Source Business Metrics Maintainers</copyright>
-    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcemetrics.org/resources/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>External Resources</title>
-      <link>https://opensourcemetrics.org/resources/external/</link>
+      <link>https://opensourcebusiness.community/resources/external/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opensourcemetrics.org/resources/external/</guid>
+      <guid>https://opensourcebusiness.community/resources/external/</guid>
       <description>Open Source Events FOSDEM https://fosdem.org/ State of Open Con https://stateofopencon.com/ Open Source Summit NA/EMEA https://events.linuxfoundation.org/ Fossy https://sfconservancy.org/fossy/ All things Open https://www.allthingsopen.org/ Interesting Articles How to set an open source strategy: https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy Explaination of the open source supply chain: https://opensource.com/article/20/10/open-source-supply-chain Overview of different open source business models: https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/ Interesting Blogs Overview of successful open source business models: https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a Interesting Websites &amp;amp; communities Community for commercial open source companies: https://www.coss.community/ A collection of blogs and guides on building open source projects: https://opensource.</description>
       <content>&lt;h3 id=&#34;open-source-events&#34;&gt;Open Source Events&lt;/h3&gt;
 &lt;ul&gt;
