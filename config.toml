@@ -1,11 +1,11 @@
-baseURL = 'https://opensourcemetrics.org/'
+baseURL = 'https://opensourcebusiness.community/'
 languageCode = 'en-us'
-title = 'Open Source Business Metrics'
+title = 'Open Source Business Community'
 theme = 'terminal'
-copyright = 'Copyright © 2023 Open Source Business Metrics Maintainers'
+copyright = 'Copyright © 2023 Open Source Business Community'
 
 [languages.en.params.logo]
-  logoText = "Open Source Business Metrics"
+  logoText = "Open Source Business Community"
   logoHomeLink = "/"
 
 [params]
