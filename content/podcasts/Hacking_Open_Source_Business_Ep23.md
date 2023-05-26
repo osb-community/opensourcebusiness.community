@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Jana Iris ]
 episode: 23
-thumbnail: "/images/Podcasts/Ep23thumb.png"
+thumbnail: "/images/Podcasts/Ep23_thumb.png"
 cover: "/images/Podcasts/Ep23_thumb.png"
 description: "Join us on the Hacking Open Source Business Podcast with our guest Jana Iris, an investor at TQ Ventures, as we dive into the world of community building, startups, and open-source business success. With over 13 years of experience, Jana shares her journey and invaluable insights into early-stage startups, building strong communities, and leveraging user feedback for growth. Learn the importance of being intentional, finding your niche, and balancing community engagement with sustainable business models. Don't miss this episode packed with tips, stories, and expert advice!"
 ---

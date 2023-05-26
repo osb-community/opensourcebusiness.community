@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Nikhil Nandagopal]
 episode: 21
-thumbnail: "/images/Podcasts/Ep21thumb.png"
+thumbnail: "/images/Podcasts/Ep21_thumb.png"
 cover: "/images/Podcasts/Ep21_thumb.png"
 description: "We dig into the fascinating world of open source platform development with Nikhil Nandagopal, one of the founders of Appsmith, in this episode of the Hacking Open Source Business podcast, hosted by Avi Press and Matt Yonkovit. Learn how Appsmith's open core approach allows developers to create powerful applications while addressing the needs of managers and CXOs. Dive into their strategy for balancing core features, user feedback, and value-added features, prioritizing data security over managed hosting. Find out how Appsmith's journey has evolved with user understanding and how open source offers better security, auditing, and self-hosting capabilities. Join us as we discuss developer retention, networking insights, and the importance of building a solid open-source community before monetizing. Don't miss this opportunity to learn from the experiences of a successful open source founder!
 

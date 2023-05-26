@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [ Avi Press, Matt Yonkovit, Joe Karlsson ]
 episode: 25
-thumbnail: "/images/Podcasts/Ep27thumb.png"
+thumbnail: "/images/Podcasts/Ep27_thumb.png"
 cover: "/images/Podcasts/Ep27_thumb.png"
 description: "Explore the world of Developer Relations (DevRel) with Tinybird's Developer Advocate, Joe Karlsson, in this podcast hosted by Matt Yonkovit. Discover key insights into DevRel, the role of Developer Advocates in open-source communities, strategies for content creation, and the importance of a strong online presence. Learn how to navigate challenges, align business goals with community needs, and understand the nuances between users and customers in open-source businesses. From dealing with layoffs to understanding vanity metrics, this podcast series provides a comprehensive understanding of the ever-evolving tech landscape."
 ---

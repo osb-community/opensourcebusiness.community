@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Maxim Wheatley ]
 episode: 17
-thumbnail: "/images/Podcasts/Ep20thumb.png"
+thumbnail: "/images/Podcasts/Ep20_thumb.png"
 cover: "/images/Podcasts/Ep20_thumb.png"
 description: "In this episode of the Hacking Open Source Business podcast, hosts Avi Press and Matt Yonkovit are joined by Maxim Wheatley, Head of Global Marketing and Sales at Merico, to discuss important sales and marketing metrics for open source projects and businesses. Maxim shares his insights on key metrics like Slack growth, new contributors, retention, and engagement, and the limitations of certain metrics like stars. They also delve into the commercialization strategy of Merico, which involves open core with a twist and offering managed, hosted versions with paid solutions for their main product, Merico Analytics. Maxim also shares his thoughts on donating open source projects to foundations, building trust in open source sales, and the challenges of marketing and branding in open source. The conversation offers valuable insights for anyone looking to measure the success and growth of their open source projects or businesses."
 ---

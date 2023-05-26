@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Nithya Ruff ]
 episode: 24
-thumbnail: "/images/Podcasts/Ep24thumb.png"
+thumbnail: "/images/Podcasts/Ep24_thumb.png"
 cover: "/images/Podcasts/Ep24_thumb.png"
 description: "Join us on Ep. 24 of The Hacking Open Source Business Podcast features Nithya Ruff, the Head of Amazon's Open Source Program Office, discussing various aspects of open source with hosts Avi Press and Matt Yonkovit. They cover topics such as the challenges facing open source today, evaluating new open source projects, the importance of Open Source Program Offices (OSPOs) for startups, building successful and sustainable open source businesses, reducing friction for developers, open source diversity, managing diverse talent and competing ideals in open source governance, and Nithya Ruff's role as Chair of the Linux Foundation Board. Throughout the episode, Nithya emphasizes the importance of community building, listening to the community, and maintaining the freedom of the open source definition."
 ---

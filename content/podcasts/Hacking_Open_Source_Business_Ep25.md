@@ -12,7 +12,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Saurav Pathak ]
 episode: 25
-thumbnail: "/images/Podcasts/Ep25thumb.png"
+thumbnail: "/images/Podcasts/Ep25_thumb.png"
 cover: "/images/Podcasts/Ep25_thumb.png"
 description: "Saurav Pathak, co-founder and CPO of Bagisto, joins the Hacking Open Source Business Podcast on Episode 25 to discuss his experience with open source, the story behind the creation of Bagisto, and the importance of marketing decisions in the success of an open source project. Saurav highlights the connections and opportunities that open source has provided in his journey as a developer and entrepreneur. 
 

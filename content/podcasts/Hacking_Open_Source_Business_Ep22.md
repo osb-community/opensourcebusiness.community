@@ -11,7 +11,7 @@ appleLink: https://podcasts.apple.com/us/podcast/the-hacking-open-source-busines
 googleLink: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDU1NzUwLnJzcw
 guests: [Avi Press, Matt Yonkovit, Kaj Arnö ]
 episode: 22
-thumbnail: "/images/Podcasts/Ep22thumb.png"
+thumbnail: "/images/Podcasts/Ep22_thumb.png"
 cover: "/images/Podcasts/Ep22_thumb.png"
 description: "In this episode of the Hacking Open Source Business Podcast, Scarf CEO Avi Press and HOSS Matt Yonkovit are joined by Kaj Arnö, CEO of the MariaDB Foundation. They discuss the challenges of managing support expectations in open source projects, including balancing limited resources with important user requests, how non-profit organizations like the Wikimedia Foundation align with open-source goals, and why many organizations use open-source software but don't support it financially.
 
