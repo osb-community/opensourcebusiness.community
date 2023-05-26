@@ -1,7 +1,7 @@
 ---
 title: "Open Source, Developer Retention, Community Over Revenue: w/ Appsmith Founder Nikhil Nandagopal"
 type: podcasts
-date: 2023-03-30
+date: 2023-03-24
 tags: [Open Source, Developer Retention, Lowcode, Community]
 youtubeLink: "https://youtu.be/wszo_iDsXbQ"
 youtubeEmbed: "https://www.youtube.com/embed/wszo_iDsXbQ"
