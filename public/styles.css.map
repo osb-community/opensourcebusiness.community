@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/avi/dev/oss-metrics",
+	"sourceRoot": "/mnt/h/oss_site/opensourcebusiness.community",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",
