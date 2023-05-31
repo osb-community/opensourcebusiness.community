@@ -38,7 +38,7 @@ copyright = 'Copyright © 2023 Open Source Business Community'
 [[languages.en.menu.main]]
  identifier = "github"
  name = "GitHub"
- url = "https://github.com/scarf-sh/oss-metrics" 
+ url = "https://github.com/osb-community/opensourcebusiness.community" 
 
 [[languages.en.menu.main]]
  identifier = "discord"
