@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/tags/open-source/</link>
+    <description>Recent content in Open Source on Open Source Business Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevRel in Open Source - Strategies, Challenges, and Growth w/ Joe Karlsson - EP. 27</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep27/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep27/</guid>
+      <description>Transcription In this episode:
+00:58 - Navigating lay-offs in tech and advice for those going through it 03:24 - The challenges of measuring ROI in DevRel 07:10 - The difference between users and customers in Open Source Businesses 09:22 - The divide between community and business in open source and what to prioritize 15:21 - The open source flywheel and DevRel content strategy 21:09 - Small communities in open source and growing your audience 24:28 - How to Balance High-Pop and Solution-Focused Content 31:20 - Vanity metrics vs.</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:58 -  Navigating lay-offs in tech and advice for those going through it&lt;/li&gt;
+&lt;li&gt;03:24 - The challenges of measuring ROI in DevRel&lt;/li&gt;
+&lt;li&gt;07:10 - The difference between users and customers in Open Source Businesses&lt;/li&gt;
+&lt;li&gt;09:22 - The divide between community and business in open source and what to prioritize&lt;/li&gt;
+&lt;li&gt;15:21 - The open source flywheel and DevRel content strategy&lt;/li&gt;
+&lt;li&gt;21:09 - Small communities in open source and growing your audience&lt;/li&gt;
+&lt;li&gt;24:28 - How to Balance High-Pop and Solution-Focused Content&lt;/li&gt;
+&lt;li&gt;31:20 - Vanity metrics vs. The metrics that matter&lt;/li&gt;
+&lt;li&gt;32:39 - Balancing between different types of target audiences&lt;/li&gt;
+&lt;li&gt;35:31 - Joe Karlsson&amp;rsquo;s first steps in DevRel&lt;/li&gt;
+&lt;li&gt;37:04 - What it takes to get a job in DevRel&lt;/li&gt;
+&lt;li&gt;39:58 - Interview tips for Dev Rel job positions&lt;/li&gt;
+&lt;li&gt;43:25 - Analyzing TinyBird&amp;rsquo;s open source contributions&lt;/li&gt;
+&lt;li&gt;44:52 - Rapid fire questions&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source Adoption, DevRel, and FOSS: Learning from Apache Cassandra - EP. 26 HOSB Podcast</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep26/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep26/</guid>
+      <description>Transcription In this episode:
+His time working in open source database community, including Apache Cassandra&amp;rsquo;s journey and upcoming developments. The role of evangelism and contributors in driving adoption and getting people to try your project. The challenges and mistakes companies make when commercializing open source, with lessons he has learned from his time in the database community. How new features are chosen based on his experience with Cassandra highlighting features such as transactions and open-source tool Guardrails?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;His time working in open source database community, including Apache Cassandra&amp;rsquo;s journey and upcoming developments.&lt;/li&gt;
+&lt;li&gt;The role of evangelism and contributors in driving adoption and getting people to try your project.&lt;/li&gt;
+&lt;li&gt;The challenges and mistakes companies make when commercializing open source, with lessons he has learned from his time in the database community.&lt;/li&gt;
+&lt;li&gt;How new features are chosen based on his experience with Cassandra highlighting features such as transactions and open-source tool Guardrails?&lt;/li&gt;
+&lt;li&gt;Does open source innovation slow down as products mature?&lt;/li&gt;
+&lt;li&gt;What is cloud-native anyways?  And what does it mean in the database context?&lt;/li&gt;
+&lt;li&gt;Building a diverse and gloabl team by building trust.&lt;/li&gt;
+&lt;li&gt;DevRel Best practices includeing, how do you measuring DevRel success.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>The Power of Community in Open Source Business - Lessons from Bagisto&#39;s Co-Founder - EP. 25 </title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep25/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep25/</guid>
+      <description>Transcription In this episode:
+00:00 - Saurav Pathak&amp;rsquo;s introduction as Co-Founder and CPO of Bagisto. 07:19 - Saurav shares his first experience with open source. 08:40 - How Bagisto was created and why. 13:45 - How marketing decisions impacted the success of the project. 17:15 - The importance of personal connections in marketing your product. 20:49 - How Bagisto reached the top of Google&amp;rsquo;s search results page. 23:29 - Building a successful content marketing engine, 26:23 - Sustaining momentum after experiencing a viral burst.</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00 - Saurav Pathak&amp;rsquo;s introduction as Co-Founder and CPO of Bagisto.&lt;/li&gt;
+&lt;li&gt;07:19 - Saurav shares his first experience with open source.&lt;/li&gt;
+&lt;li&gt;08:40 - How Bagisto was created and why.&lt;/li&gt;
+&lt;li&gt;13:45 - How marketing decisions impacted the success of the project.&lt;/li&gt;
+&lt;li&gt;17:15 - The importance of personal connections in marketing your product.&lt;/li&gt;
+&lt;li&gt;20:49 - How Bagisto reached the top of Google&amp;rsquo;s search results page.&lt;/li&gt;
+&lt;li&gt;23:29 - Building a successful content marketing engine,&lt;/li&gt;
+&lt;li&gt;26:23 - Sustaining momentum after experiencing a viral burst.&lt;/li&gt;
+&lt;li&gt;28:34 - Keyword research for a website and building an audience to improve visibility.&lt;/li&gt;
+&lt;li&gt;30:39 - Building a community and other strategies for the growth of an open-source project.&lt;/li&gt;
+&lt;li&gt;35:51 - How this open source project approached pricing for its extensions.&lt;/li&gt;
+&lt;li&gt;39:08 - Technical details around distributing extensions and managing multiple instances.&lt;/li&gt;
+&lt;li&gt;41:58 - The process for handling license violations in open source businesses.&lt;/li&gt;
+&lt;li&gt;44:02 - Product abuse and license management in open source business.&lt;/li&gt;
+&lt;li&gt;46:10 - Measuring commercial success of the product.&lt;/li&gt;
+&lt;li&gt;49:53 - Managing your community in the open source space.&lt;/li&gt;
+&lt;li&gt;53:29 - Saurav&amp;rsquo;s insights on launching successful open source projects.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Investment, Impact &amp; Open Source: Striking the Balance in Large Corporations - EP. 24</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep24/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep24/</guid>
+      <description>Transcription In this episode:
+00:00 - Getting to Know Nithya Ruff! 10:28 - What size companies should start thinking about an OSPO? 15:37 - What are the key metrics or KPI&amp;rsquo;s for an OSPO? 18:34 - How many open source project does the team contribute to in a year? 19:57 - How do you manage contributions across hundreds or even thousands of projects? 22:04 - What does being a good open source citizen look like?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00 - Getting to Know Nithya Ruff!&lt;/li&gt;
+&lt;li&gt;10:28 - What size companies should start thinking about an OSPO?&lt;/li&gt;
+&lt;li&gt;15:37 - What are the key metrics or KPI&amp;rsquo;s for an OSPO?&lt;/li&gt;
+&lt;li&gt;18:34 -  How many open source project does the team contribute to in a year?&lt;/li&gt;
+&lt;li&gt;19:57 - How do you manage contributions across hundreds or even thousands of projects?&lt;/li&gt;
+&lt;li&gt;22:04 - What does being a good open source citizen look like?&lt;/li&gt;
+&lt;li&gt;24:37 - Dealing with complex, sometimes competing points of view, and motivations in open source.&lt;/li&gt;
+&lt;li&gt;28:18 - Role at the Linux Foundation.&lt;/li&gt;
+&lt;li&gt;31:15 - What are some of the big challenges the open source community faces?&lt;/li&gt;
+&lt;li&gt;33:33 - Are there criteria the LF looks for in projects before getting involved?&lt;/li&gt;
+&lt;li&gt;37:06 - What should we be excited about in the coming years?&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Building Communities &amp; Scaling Open Source Startups with Jana Iris</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep23/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep23/</guid>
+      <description>Transcription In this episode:
+The importance of community building in open source and tech ventures. How to navigate the challenges and rewards of early-stage startups. The long game of building a community and balancing sustainable growth. Monetizing open source by knowing your niche audience and being intentional. Utilizing user feedback to develop features worth paying for. Identifying key users and personas for effective feedback programs. How to measure community value and ROI.</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The importance of community building in open source and tech ventures.&lt;/li&gt;
+&lt;li&gt;How to navigate the challenges and rewards of early-stage startups.&lt;/li&gt;
+&lt;li&gt;The long game of building a community and balancing sustainable growth.&lt;/li&gt;
+&lt;li&gt;Monetizing open source by knowing your niche audience and being intentional.&lt;/li&gt;
+&lt;li&gt;Utilizing user feedback to develop features worth paying for.&lt;/li&gt;
+&lt;li&gt;Identifying key users and personas for effective feedback programs.&lt;/li&gt;
+&lt;li&gt;How to measure community value and ROI.&lt;/li&gt;
+&lt;li&gt;Evaluating early-stage startups through various metrics.&lt;/li&gt;
+&lt;li&gt;Go-to-market strategies and community building for transitioning open source projects into businesses.&lt;/li&gt;
+&lt;li&gt;Choosing opportunities based on passion and embracing career pivots.&lt;/li&gt;
+&lt;li&gt;The significance of continuous learning, patience, and trusting the process.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>MariaDB Foundation CEO Kaj Arnö on Open Source Sustainability and the Role of Foundations</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep22/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep22/</guid>
+      <description>Transcription In this episode:
+Users of open source software expect it to be open and free, but not necessarily supported Organizations that understand and prioritize open source often make reasonable requests for support Balancing limited resources with important user requests can be challenging in open source projects Non-profits like the Wikimedia Foundation are often aligned with open-source goals Many organizations use open-source software but don&amp;rsquo;t support it financially Open source sustainability is dependent on sponsoring and promoting the community Lack of support is a systemic problem in the open source community Separating business and open source entities can lead to success in open source projects Effective open source strategies involve balancing commercial goals and community values Indirect metrics like website traffic and brand recognition are used to measure adoption in open source projects.</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Users of open source software expect it to be open and free, but not necessarily supported&lt;/li&gt;
+&lt;li&gt;Organizations that understand and prioritize open source often make reasonable requests for support&lt;/li&gt;
+&lt;li&gt;Balancing limited resources with important user requests can be challenging in open source projects&lt;/li&gt;
+&lt;li&gt;Non-profits like the Wikimedia Foundation are often aligned with open-source goals&lt;/li&gt;
+&lt;li&gt;Many organizations use open-source software but don&amp;rsquo;t support it financially&lt;/li&gt;
+&lt;li&gt;Open source sustainability is dependent on sponsoring and promoting the community&lt;/li&gt;
+&lt;li&gt;Lack of support is a systemic problem in the open source community&lt;/li&gt;
+&lt;li&gt;Separating business and open source entities can lead to success in open source projects&lt;/li&gt;
+&lt;li&gt;Effective open source strategies involve balancing commercial goals and community values&lt;/li&gt;
+&lt;li&gt;Indirect metrics like website traffic and brand recognition are used to measure adoption in open source projects.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source, Developer Retention, Community Over Revenue: w/ Appsmith Founder Nikhil Nandagopal</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep21/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep21/</guid>
+      <description>Transcription In this episode:
+00:00:00 Get to Know Nikhil Nandagopal, Founder Appsmith: Rapid Fire Questions 00:09:10 Introduction to Appsmith 00:10:55 In a Low or No Code Environment Does Open Source Matter? 00:13:32 Deciding to Open Source or Not 00:15:53 Deciding on Which Features Should be Open Core 00:22:16 Customers Paying for Your Engineering Team to Focus on Features 00:23:51 What Metrics Should Open Source Companies Focus on Until their Product is Ready?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00:00 Get to Know Nikhil Nandagopal, Founder Appsmith: Rapid Fire Questions&lt;/li&gt;
+&lt;li&gt;00:09:10 Introduction to Appsmith&lt;/li&gt;
+&lt;li&gt;00:10:55 In a Low or No Code Environment Does Open Source Matter?&lt;/li&gt;
+&lt;li&gt;00:13:32 Deciding to Open Source or Not&lt;/li&gt;
+&lt;li&gt;00:15:53 Deciding on Which Features Should be Open Core&lt;/li&gt;
+&lt;li&gt;00:22:16 Customers Paying for Your Engineering Team to Focus on Features&lt;/li&gt;
+&lt;li&gt;00:23:51 What Metrics Should Open Source Companies Focus on Until their Product is Ready?&lt;/li&gt;
+&lt;li&gt;00:27:37 Turning Down Short Term Revenue to Focus on Building the Open Source Community&lt;/li&gt;
+&lt;li&gt;00:31:50 Measuring Developer Retention&lt;/li&gt;
+&lt;li&gt;00:34:33 Talking Open Source Telemetry or Call-Home Functionality: Is it Worth Trying?&lt;/li&gt;
+&lt;li&gt;00:39:01 Choosing the Right Messaging and Positioning for Your Open Source Software&lt;/li&gt;
+&lt;li&gt;00:43:25 Learning from the Early Days of Your First Commercial Open Source Offering&lt;/li&gt;
+&lt;li&gt;00:45:39 Time Traveling Founder Advice: Network More Early on!&lt;/li&gt;
+&lt;li&gt;00:50:07 Final Thoughts:&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source: Sales, Metrics, &amp; Commercialization Strategies - Hacking Open Source Business Podcast</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep20/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep20/</guid>
+      <description>Transcription In this episode:
+00:00:00 Getting to know Maxim Wheatly - Rapid Fire Questions 00:09:59 Introduction to Merico 00:19:02 Merico Commercialization Strategy: Open Core with a twist 00:24:56 Donating Open Source Projects to Different Foundations: Apache &amp;amp; CNCF 00:33:26 When Should a Startup Donate their Project to a Foundation? 00:37:09 Sales &amp;amp; Marketing In Open Source: Taboo Topics? 00:41:55 Open Source Sales: Building Long Term Relationships and Respecting the Community 00:47:04 What Open Source Metrics Provide the Most Value - DORA Metrics 00:53:07 Important Sales and Marketing Metrics 01:01:43 Thank you and final thoughts </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00:00 Getting to know Maxim Wheatly - Rapid Fire Questions&lt;/li&gt;
+&lt;li&gt;00:09:59 Introduction to Merico&lt;/li&gt;
+&lt;li&gt;00:19:02 Merico Commercialization Strategy: Open Core with a twist&lt;/li&gt;
+&lt;li&gt;00:24:56 Donating Open Source Projects to Different Foundations: Apache &amp;amp; CNCF&lt;/li&gt;
+&lt;li&gt;00:33:26 When Should a Startup Donate their Project to a Foundation?&lt;/li&gt;
+&lt;li&gt;00:37:09 Sales &amp;amp; Marketing In Open Source: Taboo Topics?&lt;/li&gt;
+&lt;li&gt;00:41:55 Open Source Sales: Building Long Term Relationships and Respecting the Community&lt;/li&gt;
+&lt;li&gt;00:47:04 What Open Source Metrics Provide the Most Value - DORA Metrics&lt;/li&gt;
+&lt;li&gt;00:53:07 Important Sales and Marketing Metrics&lt;/li&gt;
+&lt;li&gt;01:01:43 Thank you and final thoughts&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Building a Bootstrapped Open Source Company: Insights from Jetstack Founder &amp; President, Matt Barker</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep18/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep18/</guid>
+      <description>Transcription In this episode:
+00:00:00 Welcome to the Matt Cave 00:01:48 Getting to know Matt Barker and Jetstack 00:02:30 The Early Days of Canonical 00:07:17 Support as a product, retention challenges 00:13:21 Trying to go to the proprietary world from open source 00:14:28 Comparing MongoDB &amp;amp; Canonical 00:17:27 Bootstrapping Jetstack with Services 00:19:50 Moving from services to product 00:22:53 Convinced Kubernetes was the right space 00:24:54 Betting on truly open software instead of open source controlled by 1 company 00:29:43 Measuring growth and adoption 00:33:04 Rapid Fire </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00:00  Welcome to the Matt Cave&lt;/li&gt;
+&lt;li&gt;00:01:48  Getting to know Matt Barker and Jetstack&lt;/li&gt;
+&lt;li&gt;00:02:30  The Early Days of Canonical&lt;/li&gt;
+&lt;li&gt;00:07:17  Support as a product, retention challenges&lt;/li&gt;
+&lt;li&gt;00:13:21  Trying to go to the proprietary world from open source&lt;/li&gt;
+&lt;li&gt;00:14:28  Comparing MongoDB &amp;amp; Canonical&lt;/li&gt;
+&lt;li&gt;00:17:27  Bootstrapping Jetstack with Services&lt;/li&gt;
+&lt;li&gt;00:19:50  Moving from services to product&lt;/li&gt;
+&lt;li&gt;00:22:53  Convinced Kubernetes was the right space&lt;/li&gt;
+&lt;li&gt;00:24:54  Betting on truly open software instead of open source controlled by 1 company&lt;/li&gt;
+&lt;li&gt;00:29:43  Measuring growth and adoption&lt;/li&gt;
+&lt;li&gt;00:33:04  Rapid Fire&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Avi &amp; Matt Cover the Tech Apocalypse</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep19/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep19/</guid>
+      <description>Transcription In this episode:
+More Tech Layoffs Will a Bad Economy Mean Scrappier Founders New Linux Foundation Survey on Measuring the Economic Value Open Source Is Open Source Controlled by Big Corperations Is Open Source any More Insecutre then Other Software? A Trade War Brewing in Open Source? Is the Cloud Hangover Upon Us? The Biggest Lies in the Open Source </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More Tech Layoffs&lt;/li&gt;
+&lt;li&gt;Will a Bad Economy Mean Scrappier Founders&lt;/li&gt;
+&lt;li&gt;New Linux Foundation Survey on Measuring the Economic Value Open Source&lt;/li&gt;
+&lt;li&gt;Is Open Source Controlled by Big Corperations&lt;/li&gt;
+&lt;li&gt;Is Open Source any More Insecutre then Other Software?&lt;/li&gt;
+&lt;li&gt;A Trade War Brewing in Open Source?&lt;/li&gt;
+&lt;li&gt;Is the Cloud Hangover Upon Us?&lt;/li&gt;
+&lt;li&gt;The Biggest Lies in the Open Source&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source Deep Dive W/Peter Zaitsev: Adoption, Event Strategy, Government Regulation, &amp; Licensing</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep17/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep17/</guid>
+      <description>Transcription In this episode: 00:00:00 Intro: Coming Up 00:00:32 From SOOCon23: Welcome Peter Zaitsev to the show 00:02:39 How does Peter choose which conferences to attend? 00:04:22 As an executive, how much time do you spend going to conferences? 00:05:55 Lots of conferences you can attend, but which ones are valuable? 00:07:03 Advice: How to get chosen to speak at a conference 00:11:29 Avoiding the sales pitch conference talk: submit talks that solve a problem 00:13:35 Renegade Underdogs: Peter&amp;rsquo;s new venture into helping founders and open source projects 00:17:47 The most common questions from founders center on how to accelerate growth 00:20:09 Classic Open Source Business Problem: millions of users and no one will pay for anything 00:23:42 Many projects start off as an underwhelming product, but bring an X factor that makes them successful 00:25:49 Setting the proper expectations for your open source business, growth, and adoption 00:27:39 Government regulation and funding in open source 00:29:17 What would it even mean to regulate open source?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:
+00:00:00 Intro: Coming Up
+00:00:32 From SOOCon23: Welcome Peter Zaitsev to the show
+00:02:39 How does Peter choose which conferences to attend?
+00:04:22 As an executive, how much time do you spend going to conferences?
+00:05:55 Lots of conferences you can attend, but which ones are valuable?
+00:07:03 Advice: How to get chosen to speak at a conference
+00:11:29 Avoiding the sales pitch conference talk: submit talks that solve a problem
+00:13:35 Renegade Underdogs: Peter&amp;rsquo;s new venture into helping founders and open source projects
+00:17:47 The most common questions from founders center on how to accelerate growth
+00:20:09 Classic Open Source Business Problem: millions of users and no one will pay for anything
+00:23:42 Many projects start off as an underwhelming product, but bring an X factor that makes them successful
+00:25:49 Setting the proper expectations for your open source business, growth, and adoption
+00:27:39 Government regulation and funding in open source
+00:29:17 What would it even mean to regulate open source?
+00:32:42 Paying Maintainers, giving grants, or subsidies
+00:37:53 Back to open source licenses, lets deep dive this time: do we need more open source licenses?
+00:48:01 AGPL: good or bad?
+00:52:29 Good Bye!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source, Sovereign Cloud, &amp; Business with Nextcloud Founder &amp; CEO Frank Karlitschek</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep16/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep16/</guid>
+      <description>Transcription In this episode: 00:00:00 Coming up next on the podcast: VC Expectations 00:00:47 Intro: Welcome Frank, CEO of Nextcloud 00:01:39 Learning about Nextcloud 00:02:44 Branding as the open source version of X 00:03:43 Where did you get the idea for Nextcloud? 00:04:57 Business or Project? What was the end goal? 00:06:13 Deciding on business, pricing, &amp;amp; support models 00:08:03 Figuring out the core demographic, planning for growth, and sometimes getting it wrong 00:09:17 Why is the sovereign cloud important 00:11:05 The first contributor, accelerating contributions, and hiring contributors 00:12:29 100% bootstrapped, no external investors 00:14:07 How do big organizations or governments affect the roadmap for an open source project?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:
+00:00:00 Coming up next on the podcast: VC Expectations
+00:00:47 Intro: Welcome Frank, CEO of Nextcloud
+00:01:39 Learning about Nextcloud
+00:02:44 Branding as the open source version of X
+00:03:43 Where did you get the idea for Nextcloud?
+00:04:57 Business or Project? What was the end goal?
+00:06:13 Deciding on business, pricing, &amp;amp; support models
+00:08:03 Figuring out the core demographic, planning for growth, and sometimes getting it wrong
+00:09:17 Why is the sovereign cloud important
+00:11:05 The first contributor, accelerating contributions, and hiring contributors
+00:12:29 100% bootstrapped, no external investors
+00:14:07 How do big organizations or governments affect the roadmap for an open source project?
+00:16:22 Lessons learned from dealing both with consumers and businesses
+00:17:36 What advice would you tell your younger self? Don&amp;rsquo;t accept the way things are!
+00:20:15 How do you decentralize the cloud?
+00:21:36 Cloud lock-in
+00:22:25 Rapid Fire Questions!
+00:23:01 Favorite open source tool
+00:23:21 First Linux distro
+00:24:27 Conference walk up music
+00:25:36 Favorite beverage
+00:26:27 What is new and exciting in the open source space
+00:27:38 Thoughts on AI &amp;amp; Copilot
+00:29:39 Favorite food
+00:30:01 Thank you!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>WTF is up with all these Tech Layoffs? Is the Economy Finally Impacting Open Source? Ep15 </title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep15/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep15/</guid>
+      <description>Transcription Chapters: 00:00:00 On Today&amp;rsquo;s Episode 00:00:38 WTF is Happening 00:04:50 A Bad business model or correction? 00:07:34 Is this a result of the growth at all costs mentality? 00:11:49 Is this like the previous .com booms and busts? 00:13:55 Are open source developers taking the brunt of layoffs? 00:17:09 Open source companies seeing layoffs as well 00:20:35 Maybe starting focuing on efficiency and profitability before layoffs? 00:22:01 Slow growth or fast growth 00:24:47 The incubator team 00:28:30 Freemium vs open source models 00:31:01 Other budget cuts to events, sponsorships, budgets 00:33:02 More layoff news from the web: meta, Twillio 00:33:19 Core JS Discussion 00:35:16 Open Source Lawsuites?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;Chapters:
+00:00:00 On Today&amp;rsquo;s Episode
+00:00:38 WTF is Happening
+00:04:50 A Bad business model or correction?
+00:07:34 Is this a result of the growth at all costs mentality?
+00:11:49 Is this like the previous .com booms and busts?
+00:13:55 Are open source developers taking the brunt of layoffs?
+00:17:09 Open source companies seeing layoffs as well
+00:20:35 Maybe starting focuing on efficiency and profitability before layoffs?
+00:22:01 Slow growth or fast growth
+00:24:47 The incubator team
+00:28:30 Freemium vs open source models
+00:31:01 Other budget cuts to events, sponsorships, budgets
+00:33:02 More layoff news from the web: meta, Twillio
+00:33:19 Core JS Discussion
+00:35:16 Open Source Lawsuites? Neo4J &amp;amp; the AGPL&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>From Mesos to Kubernetes: Talking Open Source with D2iQ Founder Ben Hindman</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep14/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep14/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source Go to Market Strategies, Embracing Community, &amp; Growing Government Use w/ Ian Tien ep13</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep13/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep13/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Reaching People &amp; Building Community in the Open Source &amp; Kubernetes Ecosystem w/Bart Farrell Ep 12</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>The Best Way to Measure your Open Source Community /w Guest Georg Link Ep 11</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source In Govt, Software Curation, Security w/ Amanda Brock: Hacking Open Source Business Ep 10</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep10/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep10/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Bootstrapping your Startup, Stepping down as CEO, What&#39;s Next In Open Source w/ Peter Zaitsev Ep 7</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep7/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep7/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Talking Tigris Data, a New Open Source Developer Data Platform: Hacking Open Source Business Ep 6</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep6/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep6/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Chatting Copilot, Tech Layoffs, Open Source, and More - Hacking Open Source Business Podcast: Ep 5</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep5/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep5/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Messaging &amp; Positioning an Open Source Product - How to Figure out if your Open Source Project Sucks. Ep 4</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep4/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep4/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Open Source VC Funding: Insider View from Joseph Jacks (OSS Capital) - Hacking Open Source Business</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep3/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep3/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>The Heroic Labs Open Source Journey- Moving their Business from Proprietary to Open Source Ep 2</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep2/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep2/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

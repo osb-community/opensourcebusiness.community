@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/categories/business/</link>
+    <description>Recent content in business on Open Source Business Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Business Metrics Guide: How to Build, Grow, and Measure the Success of an Open Source Business</title>
+      <link>https://opensourcebusiness.community/posts/open-source-business-metrics-guide/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/posts/open-source-business-metrics-guide/</guid>
+      <description>Open source has become one of the most recognized movements in technology in the last decade. Already 90% of IT leaders use enterprise open source software, and by 2026, the open source services market will be worth $50 billion. Based on the growth It is not surprising that the number of open source projects and businesses based around open source have skyrocketed over the past decade. While open source itself is not a business model, we can clearly identify business models built around open source licensing and philosophies that have proven sustainable, scalable, and profitable.</description>
+      <content>
+&lt;p&gt;
+Open source has become one of the most recognized movements in
+technology in the last decade. Already
+&lt;a href=&#34;https://www.redhat.com/rhdc/managed-files/rh-enterprise-open-source-report-f27565-202101-en.pdf&#34;&gt;&lt;em&gt;90%
+of IT leaders use enterprise open source software&lt;/em&gt;&lt;/a&gt;, and by 2026, the
+&lt;a href=&#34;https://www.marketsandmarkets.com/Market-Reports/open-source-services-market-27852275.html&#34;&gt;&lt;em&gt;open
+source services market will be worth $50 billion&lt;/em&gt;&lt;/a&gt;. Based on the growth
+It is not surprising that the number of open source projects and
+businesses based around open source have skyrocketed over the past
+decade. While open source itself is not a business model, we can clearly
+identify business models built around open source licensing and
+philosophies that have proven sustainable, scalable, and profitable. To
+build an open source business, it is imperative to grow not only the
+business and the adoption of your software but the community around it.
+In this guide, we walk you through those challenges and key metrics that
+you&amp;#39;ll want to track in order to get your open source business off the
+ground and keep it up and running.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Selling open source is very different from classic business models
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+For years, people have built successful businesses on the idea of
+exclusivity and differentiation. If you are the sole exclusive
+manufacturer or distributor of a product, you control the destiny of
+your product. Consider the automobile industry, for example. Ford builds
+cars. If you want to buy a Ford, you go to a Ford dealership. Ford uses
+its channel of dealers to offer you their product. Ford tries to build
+better cars than its competition, offering distinction exclusive to
+their brand or their umbrella organizations. They may license the
+technology to other automotive companies, but Ford controls their
+technology, the channels for sale, and ultimately holds more control
+over end-to-end business. Whether you are a car manufacturer or software
+company selling enterprise software, success is often predicated on
+having a better, more popular, or some differentiated product.&lt;/p&gt;
+&lt;p&gt;
+In the open source industry, your own product is your greatest
+competition. Users can download software for free without any commitment
+or even acknowledgment that they are using it. You must be able to
+differentiate your paid-for offering enough for users to choose it over
+the free version. Referencing our previous car example, it&amp;#39;s as if you
+could lawfully walk up to a lot, get into a car, and take it home
+without paying anything or telling anyone you were taking the car. That
+is how most open source projects operate. A person (group or company)
+builds software and puts it on the web (or on GitHub) for users to
+download, use, and modify for free.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Building a customer base from the growing adoption of free users
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Although giving away a product may seem counterintuitive from a business
+perspective, it serves as an effective top-of-funnel strategy for
+building a loyal, passionate customer base.&lt;/p&gt;
+&lt;p&gt;
+Let&amp;#39;s go back to the automotive example. The automotive industry makes
+money from selling a physical good: your car. Building that physical car
+involves a built-in cost for each unit sold, which needs to be recouped.
+In this case, building 1 million cars requires a higher manufacturing
+cost than building 100,000. In the case of software, building a product
+used by 1 million people is no more or less costly than building
+software used by 100,000, support costs (or infrastructure for SaaS
+companies) aside. In other words, the cost of software for 1 million
+users remains the same as the cost for 100,000, allowing you the freedom
+and flexibility to explore different models for monetization. For
+instance, you can establish ways to increase sales among existing users.&lt;/p&gt;
+&lt;p&gt;
+You may have heard that acquiring a new customer can be
+&lt;a href=&#34;https://www.outboundengine.com/blog/customer-retention-marketing-vs-customer-acquisition-marketing/#:~:text=Acquiring%20a%20new%20customer%20can,customer%20is%205%2D20%25&#34;&gt;&lt;em&gt;5x
+more expensive&lt;/em&gt;&lt;/a&gt; than selling to your existing customer. Existing users
+already know your product, they have developed some loyalty to it, and
+they have a vested interest in contributing to improve the product upon
+which they rely.&lt;/p&gt;
+&lt;p&gt;
+The question comes down to how to convert free users to paying
+customers, but the answer may appear more straightforward than you
+realize: Offer a product that is valuable enough to pay for. If your
+software provides enough enhanced value over the free version, a subset
+of users will pay for it. This is similar to the freemium strategy
+deployed in the mobile industry. For example, if 10% of your user base
+will pay for your enhanced-value software, and you grow your user base
+from 100,000 to 1 million people (10% of 1 million is more than 10% of
+100,000), then you position yourself for commercial opportunity. It&amp;#39;s a
+strategy that existed well before the open source movement in the form
+of free trials and basic free services.&lt;/p&gt;
+&lt;p&gt;
+To be successful with this approach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Know what your users are willing to pay for&lt;/li&gt;
+&lt;li&gt;Be able to adjust your product to stay ahead of needs and ahead of the
+community potentially implementing features&lt;/li&gt;
+&lt;li&gt;Maintain a steady growth rate of users trying, deploying, and running
+your software&lt;/li&gt;
+&lt;li&gt;Improve your conversion rates from free users to paid users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Common open source business models
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+In the open source space, the upsell can take a few forms. Let&amp;#39;s walk
+through the most common ones.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-4&#34;&gt;
+Open core
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+ Open core is the most classic open source commercialization strategy. It
+ consists of giving away a basic or foundational product for free and
+ only asking people to pay for a more enhanced version of the open source
+ product. This version is typically called the enterprise version and
+ enables greater efficiency as well as additional, more robust features.
+ To illustrate, imagine giving away free cars, but the gas tank of these
+ free cars can only fill up to two gallons at a time. In contrast, if
+ someone pays the full price for the car, that individual can get a full
+ 20 gallons and increase the range from 50 miles on one tank to 500
+ miles. The open core model operates similarly.&lt;/p&gt;
+&lt;p&gt;
+ 
+   &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000318000003112025EB7DED0EE1C9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+ Many companies have started with an open core model. Within this model,
+ the primary differentiator consists of enterprise features, such as
+ encryption, security, and scalability. Larger companies with deeper
+ pockets are more likely to buy a software license and support contract.
+ Another popular open core tactic is to make the server software fully
+ open source but the tooling for easily operating, developing against, or
+ managing it as part of a paid- offering.”&lt;/p&gt;
+&lt;p&gt;
+ Risk of competition from the community presents the biggest challenge
+ with open core. Other companies in the space as well as contributors,
+ will often provide viable alternatives to your enterprise components. In
+ the last five years, we have seen more and more users who feel that open
+ source versions are good enough and refuse to pay for the tooling or
+ features that open core versions offer. They prioritize easy-to-use over
+ high-end features. Consequently, more and more people view the cloud as
+ a better investment.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-5&#34;&gt;
+SaaS/PaaS/XaaS
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+ Over the last five years, X as a service has become the most popular
+ model. It seems that almost all open source companies now run or try to
+ build a cloud or an as a service offering. In this model, you allow
+ people to run the software as open source on their own but then offer a
+ managed cloud offering so that they don&amp;#39;t have to manage it for
+ themselves. This is often paired with features exclusive to the cloud
+ space. Going back to the automotive example, it&amp;#39;s like an automotive
+ lease. You don&amp;#39;t own the car—you lease it. The dealer takes care of
+ most of the maintenance and you can use the car as long as you pay. If
+ you drive more miles than the lease allows, then you pay more.&lt;/p&gt;
+&lt;p&gt;
+ 
+   &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000058A000002BB5B2CFEAA28EC936A.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+ Many open source companies choose this model comes because it provides a
+ higher degree of stickiness or lock-in. They rely on you not only to
+ provide the software but also operate it and make sure it stays running,
+ safe, and updated. In addition, you gain a lot more information on how
+ your users are using your product, which can be used to enhance,
+ improve, and expand your software and offering. Finally, usage data and
+ workload patterns can help identify expansion opportunities as well as
+ stave off churn.&lt;/p&gt;
+&lt;p&gt;
+ The biggest challenge in the cloud space is that the market is already
+ crowded. Although not all open source software lends itself to a cloud
+ offering, the most widely used infrastructure tools already have
+ versions or similar tools available in most major cloud providers. As a
+ result, you must convince users that your offering provides greater
+ value over the more integrated cloud provider stacks. Users looking for
+ the easy route will choose the path of least resistance.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-6&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-6&#34;&gt;
+Support and services
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-6&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+ Another classic open source business model is offering support or
+ services. In this model, you anticipate that a percentage of your users
+ will need dedicated help running, setting up, or troubleshooting the
+ software. Going back to our automotive example, this is like an extended
+ warranty plan or a maintenance contract that includes regular oil
+ changes, maintenance, and emergency repairs.&lt;/p&gt;
+&lt;p&gt;
+ Large enterprises still value a support contract and will often pay a
+ premium for it. Despite the fact that a significant number run their own
+ internal cloud and don&amp;#39;t rely on a public cloud, companies are
+ increasingly opting for a managed service or cloud offering that
+ includes support and operational management. For open source businesses,
+ providing services is the easiest starting point for driving revenue.&lt;/p&gt;
+&lt;p&gt;
+ The biggest barrier with a service-based model is proving your value.
+ Otherwise, customers will not renew their contracts. If a customer pays
+ for insurance but never uses it, the customer will constantly question
+ the value of that expense. This is especially true in the open source
+ space where customers could turn to the community for free support in a
+ time of need. Furthermore, the margin for services is generally very low
+ and not attractive to investors.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-7&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-7&#34;&gt;
+The open source funnel
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-7&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+The success of all these models relies on driving people from a free to
+paid relationship, a journey outlined by the open source funnel.&lt;/p&gt;
+&lt;p&gt;
+The open source funnel differs from the classic marketing funnel, which
+looks something like this:&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000585000000E12B3211947FFAB7AC.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+With the marketing funnel, you want to generate inquiries and grow your
+digital traffic and engagement so that eventually, those who interact
+with your site become a lead or contact. After a specific number or set
+of events, whether it is clicking on a webpage, registering for a
+webinar, opening up an email, or watching a video, the lead eventually
+qualifies as a marketing qualified lead (MQL). The MQL becomes a sales
+accepted lead (SAL) once the lead is ready for the sales team&amp;#39;s
+follow-up and thereafter turns into a sales qualified lead (SQL) once
+the lead has advanced through the sales pipeline. SQLs will likely
+become customers and either become lost deals or closed won deals.&lt;/p&gt;
+&lt;p&gt;
+In contrast, the open source funnel looks something like this:&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://opensourcebusiness.community/images/100002010000051D00000258A8939A1BBC9A166B.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+With more interest comes more downloads, and with more downloads comes
+more production deployments as well as more users who are willing to pay
+for something of value. Naturally, dropoff will occur at each stage.
+Nonetheless, open source provides the advantage of a larger-than-normal
+pool in the initial interest phase, which can very nicely set up the
+rest of the funnel for maximal conversion.&lt;/p&gt;
+&lt;p&gt;
+In companies focused on product-led growth, you may be more familiar
+with using the growth flywheel:&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000051E000005183B9425511CE29FA9.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+In this setup, evaluators are those reviewing your project and
+downloading it. Beginners are those using it in production. Regulars are
+those willing to pay. Champions are fans of you and the open source
+project.&lt;/p&gt;
+&lt;p&gt;
+The flywheel can also be applied to open source companies, as
+represented below:&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://opensourcebusiness.community/images/1000000000000307000002EADA41F831A6BA0FAE.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+You still attract people to your open source project, engage with them,
+and generate interest, but that interest causes them to try your open
+source project first for a non-production workload (e.g., a small trial
+application or just trying to build something on a laptop ). The goal is
+to make that experimental experience so exceptional that it makes them
+want to move a production workload to the software or build new
+applications with the software. The more comfort a user gains with the
+project, the more applications that they will want to deploy and the
+more they will want to use your software in production. Note: It may
+prove easier to create advocates and evangelists from your free users
+than it may be to create paying customers.&lt;/p&gt;
+&lt;p&gt;
+At this point, two goals emerge: First, you want them to share their
+experiences with others to propel further interest in the project and
+help you grow your potential user base. Second, once they rely on your
+software for mission-critical applications, you want them to recognize
+the value of and experiment with your enterprise offering. In this way,
+they enter into a similar cycle of trying the software or service and
+eventually moving into production.&lt;/p&gt;
+&lt;p&gt;
+Whether you&amp;#39;re looking at the flywheel or open source funnel, more users
+trying your open source software is always better. This is why many
+companies prioritize acquiring the largest open source install base
+possible first and foremost. With millions of users, you can eventually
+image out how to monetize the user base even if your customer base is
+relatively small now. In fact, this philosophy of growth at all costs
+has dominated much of the industry over the last five years.&lt;/p&gt;
+&lt;p&gt;
+Since the beginning of 2022, the shift in economic climate has caused
+companies to reevaluate their plans. Efficiency and a faster path toward
+profitability have replaced the growth-at-all-costs mentality, leading
+to more emphasis on conversion rates and customer acquisition costs
+(CAC). The switch from gaining more users to growing the &lt;em&gt;right&lt;/em&gt; users
+has made messaging, positioning, and targeting specific personas vital
+for growth.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-8&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-8&#34;&gt;
+Efficiency, renewal, expansion, and growth
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-8&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Gaining massive year-over-year growth for your open source project is
+easier starting out than after you have an established project. It is
+not uncommon to see projects and companies grow 4–5x year over year. As
+a project reaches market saturation, growth gradually tapers off and the
+focus turns to feature set and functionality expansion so that you can
+jump into new markets (for instance, a NoSQL database focused on
+documents adding transactional and relational workloads.&lt;/p&gt;
+&lt;p&gt;
+As the company matures, you want to expand the usage of existing
+customers and leverage the hard work of having already acquired them. In
+fact, many larger organizations plan for 125% net retention from their
+customer base (simply check out the annual or quarterly earnings reports
+from some of your favorite open source companies). Effectively, these
+companies expect $1.00 of revenue from customers this year to deliver
+$1.25 next year. They achieve this only by reducing churn and expanding
+the usage of products within existing customers. Regardless of your
+business model, continued success requires you to build natural pathways
+for expansion.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-9&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-9&#34;&gt;
+
+&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-10&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-10&#34;&gt;
+The importance of growth for commercial success
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-10&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+An increasing number of open source projects are becoming commercially
+viable. Companies looking to scale these projects must rely on growth
+metrics for a variety of reasons. First,
+&lt;a href=&#34;https://about.scarf.sh/post/how-to-attract-open-source-investors&#34;&gt;&lt;em&gt;investors
+seek indicators&lt;/em&gt;&lt;/a&gt; that projects will deliver a good return on their
+investment. A growing user base indicates a growing potential customer
+base. Second, understanding the potential customer pool is vital to
+understanding how to build and structure your business. With growth
+comes new opportunities to expand the project, enhance the feature set,
+and pull in more contributors, users, and eventually customers, who
+augment the use cases of your project, bring fresh ideas, and provide
+vital feedback. Finally, the right set of growth metrics also provides
+insight into what is not working and what adjustments need to be made.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-11&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-11&#34;&gt;
+The challenge of tracking adoption and usage
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-11&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+When we talk about growing an open source project, we often refer to
+growing its adoption and usage. A burgeoning user base yields a
+cascading impact on the rest of the project, often leading to more
+contributors, more community engagement, more funding opportunities,
+more potential sales, and more downstream effects. Tracking adoption,
+however, in the open source space is difficult. Ideally, you would be
+able to count the actual number of people using your software, but in
+reality, that is not an option—users value their privacy, downloads
+come from third-party repositories, people build from source code, and
+software with baked-in telemetry is commonly frowned upon. In an effort
+to try and understand the adoption cycle, you are usually left examining
+a series of metrics that reflect and indicate interest, awareness,
+adoption, and contributions but that don&amp;#39;t fully match true usage.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-12&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-12&#34;&gt;
+Why can&amp;#39;t you track running instances?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-12&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Tracking running instances requires telemetry built into your software
+that calls home and sends some data packets back. Although a number of
+users are willing to provide this level of data, many are concerned over
+how the level of tracking and overall implementation of such a system
+affects their privacy. The open source companies that have implemented
+built-in telemetry (or at least tried to) have experienced varying
+degrees of success, including community backlash, which in some cases
+have diminished the user base.&lt;/p&gt;
+&lt;p&gt;
+In fact our experience is that even when the data collected by two
+different entities are entirely identical, people are sensitive to how
+the data is collected. Scarf saw that end users were actually more
+comfortable with completely silent pixel tracking than they were with
+phone home mechanisms in NPM packages (despite it being a subset of what
+NPM was already collecting).&lt;/p&gt;
+&lt;p&gt;
+This begs the question of how you would not only come to understand
+&lt;em&gt;who&lt;/em&gt; is using your software but also &lt;em&gt;how&lt;/em&gt; they are using it three,
+six, to 12 months after installation and even continuously, if possible,
+without compromising trust.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-13&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-13&#34;&gt;
+What about the cloud?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-13&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+The cloud to some degree can provide a way around this. When people sign
+up for a cloud-based service they provide their information and grant
+you authorization both to run the software for them and access more
+granular metrics on their usage. As a result, you can gain a detailed
+understanding of their needs. That said, most open source software falls
+outside of the cloud space. Most cloud providers who provide open source
+as a service offer the commercialized version of what is already
+downloadable and installable without a commercial agreement. Still, a
+large portion of the user base exists that will try out the open source
+software on their own either via downloaded packages, containers, or
+building from source. What about getting adoption and usage details for
+those users?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-14&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-14&#34;&gt;
+Measuring success
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-14&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;div id=&#34;outline-container-headline-15&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-15&#34;&gt;
+Top of the open source funnel: How do you track interest?
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-15&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+ Isn&amp;#39;t open source largely tracked via contributor usage? Should
+ GitHub-esque metrics remain the de facto standard for project health,
+ adoption, and growth? The answer to both questions is no. Contributor
+ metrics are great, but they don&amp;#39;t predict the commercial success of a
+ product. Having more contributors than other similar projects may look
+ good on paper, but that doesn&amp;#39;t denote users. Similarly, an increase in
+ the number of contributors, pull requests, or issues on GitHub does not
+ mean your project&amp;#39;s user base is growing. It could even indicate the
+ opposite. Growing the contributor base is certainly a directionally
+ helpful indicator of a project&amp;#39;s health and adoption, but it does not
+ always directly correlate, nor is it a comprehensive measure considering
+ all the other factors to take into account. So, what metrics should you
+ look at to understand the overall growth of your project?&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://opensourcemetrics.org/metrics/intro_awareness/&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about awareness&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-16&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-16&#34;&gt;
+Contributors (code or evangelist)
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-16&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  Tracking contributors still matters, but the way in which you do it
+  makes a difference. Several projects have a handful of large corporate
+  entities that contribute heavily to the code base of a project. You&amp;#39;ll
+  see spikes in contributors over time when in reality, those indicate
+  when a new company joined the ecosystem. Tracking the companies, as well
+  as the individuals who contribute, can help mitigate this. If a company
+  or individual cares enough about the project to contribute to it, you
+  are seeing growth. You can track such metrics in GitHub/GitLab,
+  Bitergia, or in a tool like Orbit or Common Room that aggregates
+  multiple sources.&lt;/p&gt;
+&lt;p&gt;
+  The caveat is that measuring the overall growth of all advocates, not
+  just the code contributors, is difficult. Besides examining the number
+  of people contributing to the code, you also want to look at the number
+  of people releasing videos, blogs, talks, and other content into your
+  ecosystem. These soft contributions can show project growth and success
+  even better than hardcore code metrics, but tracking them is often
+  manual.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/contributor_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about contributor metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-17&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-17&#34;&gt;
+Tracking the number of GitHub or GitLab stars
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-17&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  Another important top-of-funnel metric is project traffic and activity
+  on sites like GitHub or GitLab, which offer more meaningful data over a
+  metric like GitHub stars. In principle, more stars on GitHub would seem
+  to equate to more interest or growth, but there is cause to think twice.
+  A cursory search shows that dozens of services will give hundreds or
+  thousands of stars to your project for only a few dollars. Some projects
+  hold a suspiciously large number of stars for the code available.&lt;/p&gt;
+&lt;p&gt;
+  Rather, project traffic and activity as reflected by the number of
+  issues, merges, commits, etc., on GitHub, prove more telling. Moreover,
+  it is more important to evaluate the number of unique users performing
+  those activities over the raw number of activities. Unique traffic to
+  your repositories, the unique number of forks, and the unique number of
+  clones of your repo are all worth tracking in order to gauge growth.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/repo_popularity_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about popularity metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-18&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-18&#34;&gt;
+Website traffic and digital presence
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-18&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  We&amp;#39;ve covered some key metrics for measuring interest that come from
+  external sources. Let&amp;#39;s take a closer look at some of the internal
+  sources of data within your company that you can review. To access these
+  numbers, you can employ a service such as Google Analytics, Chartbeat,
+  Semrush, Amplitude Analytics, or Pendo, and work with your web
+  development team to gain access.&lt;/p&gt;
+&lt;p&gt;
+  Unique views&lt;/p&gt;
+&lt;p&gt;
+  Because bots and crawlers on the web can cause peaks in website traffic,
+  identifying the number of unique views or companies interacting with
+  your site is more valuable than the number of raw page views. You should
+  be able to track the trend of your traffic over time and explain the
+  dips and spikes. Growth of uniques over time shows increasing interest
+  in your product.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/website_traffic&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about traffic metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-19&#34; class=&#34;outline-5&#34;&gt;
+&lt;h5 id=&#34;headline-19&#34;&gt;
+Engagement with documentation, tutorials, and guides
+&lt;/h5&gt;
+&lt;div id=&#34;outline-text-headline-19&#34; class=&#34;outline-text-5&#34;&gt;
+&lt;p&gt;
+   Another indicator of interest in your product lies in a subset of your
+   website traffic: engagement with docs, tutorials, and guides. Increased
+   traffic of unique visitors in these sections typically signals more
+   people who are seriously interested in trying out your product. It is
+   also important to note that there are different weights to people&amp;#39;s
+   actions that you should take into account, for instance, someone who
+   revisits your website over and over again or someone who reviews your
+   pricing page indicates more interest than merely a one-time visit to the
+   homepage.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-20&#34; class=&#34;outline-5&#34;&gt;
+&lt;h5 id=&#34;headline-20&#34;&gt;
+Referrals
+&lt;/h5&gt;
+&lt;div id=&#34;outline-text-headline-20&#34; class=&#34;outline-text-5&#34;&gt;
+&lt;p&gt;
+   Bear in mind that metrics do not merely revolve around the absolute
+   numbers. It is also important to know where the numbers come from to
+   evaluate reach and awareness. You want to know what external sites or
+   platforms served as the channel by which someone landed on your website.
+   This requires an understanding of who is linking to your content, what
+   other websites mention your product, and what other websites reshare
+   your content.&lt;/p&gt;
+&lt;p&gt;
+   &lt;a href=&#34;https://opensourcemetrics.org/metrics/website_referrals&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about referrals metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-21&#34; class=&#34;outline-5&#34;&gt;
+&lt;h5 id=&#34;headline-21&#34;&gt;
+Share of voice
+&lt;/h5&gt;
+&lt;div id=&#34;outline-text-headline-21&#34; class=&#34;outline-text-5&#34;&gt;
+&lt;p&gt;
+   Share of voice attempts to measure your share of a market and overall
+   awareness. When people search for, talk about, or suggest tools in this
+   space, how often are you in that conversation? How do you rank in search
+   engine optimization (SEO)? How many mentions do you get versus your
+   competition? Are you receiving external press and coverage? A lot of
+   companies spend an enormous amount of time, money, and effort chasing
+   mindshare only to find that they did not get the outcome that they
+   expected. Due to the nebulous and complicated nature of calculating
+   share of voice, we recommend waiting until later on in a project
+   lifecycle to attempt to measure this.&lt;/p&gt;
+&lt;p&gt;
+   &lt;a href=&#34;https://opensourcemetrics.org/metrics/share_of_voice&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about share of voice metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-22&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-22&#34;&gt;
+Social reach
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-22&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  Your social reach centers less around an individual metric and more
+  around a series of metrics aggregated to give an overall picture of
+  growth among your followers. Typically, we seek growth in the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Number of followers&lt;/li&gt;
+&lt;li&gt;The number of likes/shares&lt;/li&gt;
+&lt;li&gt;Engagement: How many people have been part of a discussion on social
+media?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensourcemetrics.org/metrics/social_reach&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about social reach metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-23&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-23&#34;&gt;
+Middle of the open source funnel: How do you track usage?
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-23&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+ Once a user shows interest, the next step is to encourage a download,
+ grabbing of a Docker container, or grabbing of the source code itself to
+ experiment with. This is the first time when your product can speak for
+ itself. For a project maintainer or owner, this is also the first
+ concrete step for increasing project adoption.&lt;/p&gt;
+&lt;p&gt;
+ The disadvantage in this phase is the difficulty of collecting data
+ because the default tends to be anonymity. In many cases, it is
+ challenging to collect and measure the data without a third-party tool
+ or service.&lt;/p&gt;
+&lt;p&gt;
+ Nevertheless, there are ways to work with what you have. You can review
+ the metrics outlined below to get a sense of how usage of your product
+ is trending.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href=&#34;https://opensourcemetrics.org/metrics/adoption_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about adoption metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-24&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-24&#34;&gt;
+Raw downloads
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-24&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  The total raw number of downloads can indicate how your project is
+  growing but should always be taken with a pinch of salt. The risks
+  include redownloads, whether by bots or by real users, which can skew
+  numbers and be misleading if looked at in isolation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-25&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-25&#34;&gt;
+Scrubbed unique downloads
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-25&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  Scrubbed unique downloads are a slight modification on raw downloads and
+  aim to identify the real number of downloads by looking at how many
+  unique companies or users have downloaded your software.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/download_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about download metrics&lt;/em&gt;&lt;/a&gt;  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-26&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-26&#34;&gt;
+Enhanced download metrics with metadata
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-26&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  Identifying the unique person downloading and using your software is
+  challenging with open source, but fortunately there are tools and
+  methods available that can at least provide enriched metadata about your
+  users, including location, company, other pages that they may have
+  accessed on the website, and the like. You can pull this information
+  from the logs or employ a tool like
+  &lt;a href=&#34;https://app.scarf.sh/register&#34;&gt;&lt;em&gt;Scarf&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/download_meta_data&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about download metadata metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-27&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-27&#34;&gt;
+Net new users/companies
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-27&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  This one is quite straightforward. It is essential to understand how
+  many new people are trying your software.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/net_new_users&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about net new metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-28&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-28&#34;&gt;
+Signups
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-28&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  If you have a SaaS offering and a free tier, you&amp;#39;ll automatically have a
+  concrete metric for knowing how many people are experimenting with your
+  product because it will require a signup to get started. What is more,
+  users will likely tell you who they are during the onboarding process
+  because of the information that you ask them to enter when signing up.&lt;/p&gt;
+&lt;p&gt;
+  Once you have a solid understanding of how your product is used, the
+  next step is to analyze behavior that precedes conversion.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/user_signups&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about signup metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-29&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-29&#34;&gt;
+Page, docs, or source-to-download conversion ratios
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-29&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  You should know what leads a user to download. Understanding which
+  content, pages, docs, or other sources or channels users visit before
+  deciding to download helps you optimize and increase those numbers
+  because you get a better sense of what your target audience seeks.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/user_conversion_ratios&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about conversion ratios&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-30&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-30&#34;&gt;
+Docs views from those who have already downloaded
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-30&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  We&amp;#39;ve talked above about the need to track documentation and website
+  traffic, but it is also important to track views from those who have
+  already downloaded your software or packages. Some users may only
+  download once and often deploy from that single download. This means
+  that the actual deployments or usage of your software may be hidden
+  behind a single download number. Tracking downloads and continued
+  engagement on the website and from docs will reveal continued usage.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-31&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-31&#34;&gt;
+Bottom of the open source funnel: Who is using your product, and more importantly, who is willing to pay?
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-31&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;div id=&#34;outline-container-headline-32&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-32&#34;&gt;
+Redownloads or multiple downloads over time
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-32&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  The same users downloading your software over and over again shows
+  ongoing usage and possible growth of the number of installs. This number
+  and rate of downloads can also help determine changes to deployments or
+  the overall install base that may occur.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/redownload_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about redownload metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-33&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-33&#34;&gt;
+Users still active 90 days after their first install
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-33&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  The best predictor for potential production usage or a possible future
+  customer is ongoing usage. You want users to still actively use the
+  software 90 days after downloading and installing it, and to do so after
+  180 days is even better. If the number of users who drop off before 90
+  days is high, then either the value of the software may be too low or
+  the barrier of entry may be too high. To track active instances or uses
+  of the software, you can use some lightweight telemetry or in the
+  absence of that, repeated downloads.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-34&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-34&#34;&gt;
+Companies and organizations using the software for more than six months
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-34&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  Whereas the above metric focuses on users, this metric focuses on the
+  total number of users at a single company or organization. Multiple
+  users at the same company might be downloading and using the software.
+  If you know that multiple users from the same company use your product
+  repeatedly, that is a powerful indicator of potential growth.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/ongoing_sustained_usage&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about ongoing usage metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-35&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-35&#34;&gt;
+Company downloads accompanied by GitHub repo activity and issues
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-35&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+ Another powerful indicator of potential customers is the number of those
+ who download your product and then open issues in GitHub or commit code
+ to your repositories.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href=&#34;https://opensourcemetrics.org/metrics/merging_repo_download_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about correlated metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-36&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-36&#34;&gt;
+Call home telemetry: Instances/installs running at a company
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-36&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+ The best way to track growth is to understand how many companies and
+ users actively use your software and whether they are increasing or
+ decreasing the number of active deployments. You want to know the number
+ of active instances, the number of new instances running in the last X
+ days, the number of churned instances, etc.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href=&#34;https://opensourcemetrics.org/metrics/call_home_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about call home metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-37&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-37&#34;&gt;
+Customers, users, and retention
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-37&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+ Every company tracks a set of business metrics that they review on a
+ regular basis, which may include metrics such as annual or monthly
+ recurring revenue (ARR or MRR), the number of customers, and net
+ revenue. Open source specific metrics complement these standard business
+ ones. A thriving open source business will focus on both, together with
+ the acquisition of net new customers and retention of existing
+ customers. Consider taking a closer look at these as you seek to
+ evaluate the bottom of your open source funnel.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href=&#34;https://opensourcemetrics.org/metrics/customer_metrics&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about customer metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-38&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-38&#34;&gt;
+User-to-customer ratio
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-38&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+ The ratio of users to paying customers is one of the top five metrics
+ that you should track and constantly look to improve. You can acquire
+ customers by increasing the overall number of users and improving the
+ conversion rate. Early on, you may find it easier to increase the
+ overall users by orders of magnitude, but as the market changes, the
+ growth rate slows down as you capture more and more of the available
+ market. This is why converting users to customers is critical.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href=&#34;https://opensourcemetrics.org/metrics/customer_conversion_ratios&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about customer conversion metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-39&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-39&#34;&gt;
+Instance and user churn
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-39&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+  Once you know the number of instances of your software running in unique
+  organizations, you can identify dwindling counts of installed or running
+  instances, which can foreshadow the potential churn of a customer.
+  Decreases in the number of users or instances may indicate issues within
+  the software or losses to competition.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://opensourcemetrics.org/metrics/churn_instances&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about instance churn metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-40&#34; class=&#34;outline-4&#34;&gt;
+&lt;h4 id=&#34;headline-40&#34;&gt;
+Customer advocates
+&lt;/h4&gt;
+&lt;div id=&#34;outline-text-headline-40&#34; class=&#34;outline-text-4&#34;&gt;
+&lt;p&gt;
+ Earlier we highlighted the significance of tracking contributors
+ (whether it&amp;#39;s code contributions or evangelism), but it is also
+ important to segment out and track paying customers. Paying customers
+ who are active in your community are a valuable source of feedback and
+ help instill confidence in potential users and customers.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href=&#34;https://opensourcemetrics.org/metrics/customer_advocates&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about customer advocates metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-41&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-41&#34;&gt;
+Open source competitive analysis
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-41&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;
+ Check if your key users and customers are contributing to your
+ competitive open source products. Their behavior will serve as a useful
+ predictor of potential churn.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href=&#34;https://opensourcemetrics.org/metrics/predictive_churn&#34;&gt;&lt;em&gt;&amp;gt;&amp;gt; read more about predictive churn metrics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+ 
+   &lt;img src=&#34;https://opensourcebusiness.community/images/100000000000060A0000035BD89F24088D3B336F.png&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+ 
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-42&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-42&#34;&gt;
+Conclusion
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-42&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Not every department or team will value all of the above metrics the
+same, but these metrics as a whole do track the various stages of the
+user and customer lifecycle. Based on these metrics, you can gauge the
+overall interest in an open source project and determine if your
+decisions result in further adoption. Marketing and sales can ensure a
+growing funnel and close more deals. VC firms can evaluate business
+performance and receive assurance that their investments produce
+promising ROI. What is more, you can use the insights to improve your
+product and better satisfy the needs of your target audience.&lt;/p&gt;
+&lt;p&gt;
+Even though open source has existed for a while, the playbook for open
+source done right is still in the making and ever evolving. Despite
+three major models repeatedly emerging in the space, there truly is no
+traditional path for the open source business. Yet the need to account
+for growth, as with any company, still applies.&lt;/p&gt;
+&lt;p&gt;
+Measuring the interest, adoption, and growth of open source projects
+extends beyond just contributors. It is important to triangulate key
+metrics within each stage of the open source funnel to draw meaningful
+analysis and conclusions that can help you understand how users are
+progressing through the customer journey. One of the many beauties of
+open source is that it provides a broad user base by opening up the
+technology to anyone and everyone who takes interest thanks to virtually
+no financial barrier to entry, or any barrier at all! To that end, if
+you can appeal to loyal existing users and find a way to both monetize
+and augment their usage, the possibilities could be exceedingly
+beneficial and worth billions of dollars. Open source creators plus
+data-driven insights make for a powerful combination.&lt;/p&gt;
+&lt;p&gt;
+Understandably, setting up the metrics essential to achieving this can
+feel cumbersome and time consuming. If you are serious about sustaining
+the growth of your open source business and want help with measuring the
+metrics discussed in this paper and more, you can
+&lt;a href=&#34;https://about.scarf.sh/&#34;&gt;&lt;em&gt;check out Scarf&lt;/em&gt;&lt;/a&gt; and learn about package
+SDKs, Scarf Gateway, documentation insights, and open source support.
+The tools created by Scarf make it easy to track downloads as well as
+gain visibility into the user lifecycle.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://app.scarf.sh/register&#34;&gt;&lt;em&gt;Get started with Scarf today&lt;/em&gt;&lt;/a&gt; or
+feel free to &lt;a href=&#34;https://about.scarf.sh/contact&#34;&gt;&lt;em&gt;contact us&lt;/em&gt;&lt;/a&gt; if you
+have any questions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributors on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/tags/contributors/</link>
+    <description>Recent content in Contributors on Open Source Business Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/tags/contributors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reaching People &amp; Building Community in the Open Source &amp; Kubernetes Ecosystem w/Bart Farrell Ep 12</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep12/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>The Best Way to Measure your Open Source Community /w Guest Georg Link Ep 11</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep11/</guid>
+      <description>Transcription </description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

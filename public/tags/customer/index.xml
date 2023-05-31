@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customer on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/tags/customer/</link>
+    <description>Recent content in Customer on Open Source Business Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Community</copyright><atom:link href="https://opensourcebusiness.community/tags/customer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Business Metrics: Customer Advocates</title>
+      <link>https://opensourcebusiness.community/metrics/customer_advocates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/metrics/customer_advocates/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Customer Business Metrics</title>
+      <link>https://opensourcebusiness.community/metrics/customer_metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/metrics/customer_metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Customer Conversion Ratios</title>
+      <link>https://opensourcebusiness.community/metrics/customer_conversion_ratios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/metrics/customer_conversion_ratios/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Instance Churn</title>
+      <link>https://opensourcebusiness.community/metrics/churn_instances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/metrics/churn_instances/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source Business Metrics: Predictive Churn</title>
+      <link>https://opensourcebusiness.community/metrics/predictive_churn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/metrics/predictive_churn/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

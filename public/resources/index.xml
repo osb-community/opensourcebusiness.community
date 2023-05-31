@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Open Source Business Community</title>
+    <link>https://opensourcebusiness.community/resources/</link>
+    <description>Recent content in Resources on Open Source Business Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Open Source Business Community</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>External Resources</title>
+      <link>https://opensourcebusiness.community/resources/external/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/resources/external/</guid>
+      <description>Open Source Events FOSDEM https://fosdem.org/ State of Open Con https://stateofopencon.com/ Open Source Summit NA/EMEA https://events.linuxfoundation.org/ Fossy https://sfconservancy.org/fossy/ All things Open https://www.allthingsopen.org/ Interesting Articles How to set an open source strategy: https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy Explaination of the open source supply chain: https://opensource.com/article/20/10/open-source-supply-chain Overview of different open source business models: https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/ Interesting Blogs Overview of successful open source business models: https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a Interesting Websites &amp;amp; communities Community for commercial open source companies: https://www.coss.community/ A collection of blogs and guides on building open source projects: https://opensource.</description>
+      <content>&lt;h3 id=&#34;open-source-events&#34;&gt;Open Source Events&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;FOSDEM &lt;a href=&#34;https://fosdem.org/&#34;&gt;https://fosdem.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;State of Open Con &lt;a href=&#34;https://stateofopencon.com/&#34;&gt;https://stateofopencon.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Open Source Summit NA/EMEA &lt;a href=&#34;https://events.linuxfoundation.org/&#34;&gt;https://events.linuxfoundation.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fossy &lt;a href=&#34;https://sfconservancy.org/fossy/&#34;&gt;https://sfconservancy.org/fossy/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;All things Open &lt;a href=&#34;https://www.allthingsopen.org/&#34;&gt;https://www.allthingsopen.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interesting-articles&#34;&gt;Interesting Articles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;How to set an open source strategy: &lt;a href=&#34;https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy&#34;&gt;https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Explaination of the open source supply chain:  &lt;a href=&#34;https://opensource.com/article/20/10/open-source-supply-chain&#34;&gt;https://opensource.com/article/20/10/open-source-supply-chain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Overview of different open source business models: &lt;a href=&#34;https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/&#34;&gt;https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interesting-blogs&#34;&gt;Interesting Blogs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of successful open source business models:  &lt;a href=&#34;https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a&#34;&gt;https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interesting-websites--communities&#34;&gt;Interesting Websites &amp;amp; communities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Community for commercial open source companies: &lt;a href=&#34;https://www.coss.community/&#34;&gt;https://www.coss.community/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A collection of blogs and guides on building open source projects: &lt;a href=&#34;https://opensource.guide/&#34;&gt;https://opensource.guide/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A clearing house for open source news and content: &lt;a href=&#34;https://opensource.com/&#34;&gt;https://opensource.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The official home of the OSI: &lt;a href=&#34;https://opensource.org/&#34;&gt;https://opensource.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The home of the Chaoss community which is all about open source metrics of all kinds: &lt;a href=&#34;https://chaoss.community/&#34;&gt;https://chaoss.community/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Need to pick a license?  check out : &lt;a href=&#34;https://choosealicense.com/licenses/&#34;&gt;https://choosealicense.com/licenses/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Another good resource when looking at licenses: &lt;a href=&#34;https://snyk.io/learn/open-source-licenses/&#34;&gt;https://snyk.io/learn/open-source-licenses/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A good guide for starting an oss business from the VC perspective: &lt;a href=&#34;https://www.field-guide.unusual.vc/field-guide-enterprise/start-an-open-source-software-company&#34;&gt;https://www.field-guide.unusual.vc/field-guide-enterprise/start-an-open-source-software-company&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other-resources&#34;&gt;Other Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Free access to the book Open Source Law, Policy, and Practice:  &lt;a href=&#34;https://amandabrock.com/books/&#34;&gt;https://amandabrock.com/books/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7XHlbqLLFXs&#34;&gt;All Things Open Talk Recording: How Do You Know if your Project is Any Good? Emily Omier &amp;amp; Avi Press&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
