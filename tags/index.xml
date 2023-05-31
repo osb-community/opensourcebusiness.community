@@ -7,13 +7,303 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023 Open Source Business Community</copyright>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community</title>
       <link>https://opensourcebusiness.community/tags/community/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcebusiness.community/tags/community/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://opensourcebusiness.community/tags/content/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/content/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>DevRel</title>
+      <link>https://opensourcebusiness.community/tags/devrel/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/devrel/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>https://opensourcebusiness.community/tags/growth/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/growth/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://opensourcebusiness.community/tags/open-source/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/open-source/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Apache</title>
+      <link>https://opensourcebusiness.community/tags/apache/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/apache/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Foundations</title>
+      <link>https://opensourcebusiness.community/tags/foundations/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/foundations/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Eccommerce</title>
+      <link>https://opensourcebusiness.community/tags/eccommerce/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/eccommerce/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://opensourcebusiness.community/tags/marketing/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/marketing/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>https://opensourcebusiness.community/tags/php/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/php/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>https://opensourcebusiness.community/tags/sales/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/sales/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://opensourcebusiness.community/tags/cloud/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/cloud/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>OSPO</title>
+      <link>https://opensourcebusiness.community/tags/ospo/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/ospo/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Hashicorp</title>
+      <link>https://opensourcebusiness.community/tags/hashicorp/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/hashicorp/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Investor</title>
+      <link>https://opensourcebusiness.community/tags/investor/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/investor/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>VC</title>
+      <link>https://opensourcebusiness.community/tags/vc/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/vc/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>CEO</title>
+      <link>https://opensourcebusiness.community/tags/ceo/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/ceo/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Foundation</title>
+      <link>https://opensourcebusiness.community/tags/foundation/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/foundation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>MariaDB</title>
+      <link>https://opensourcebusiness.community/tags/mariadb/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/mariadb/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>https://opensourcebusiness.community/tags/sustainability/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/sustainability/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Developer Retention</title>
+      <link>https://opensourcebusiness.community/tags/developer-retention/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/developer-retention/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Lowcode</title>
+      <link>https://opensourcebusiness.community/tags/lowcode/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/lowcode/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Metrics</title>
+      <link>https://opensourcebusiness.community/tags/metrics/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/metrics/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>https://opensourcebusiness.community/tags/strategy/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/strategy/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://opensourcebusiness.community/tags/bootstrap/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/bootstrap/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://opensourcebusiness.community/tags/kubernetes/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/kubernetes/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://opensourcebusiness.community/tags/services/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/services/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>https://opensourcebusiness.community/tags/economy/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/economy/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Layoffs</title>
+      <link>https://opensourcebusiness.community/tags/layoffs/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/layoffs/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://opensourcebusiness.community/tags/security/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/tags/security/</guid>
       <description></description>
       <content></content>
     </item>
@@ -29,31 +319,11 @@
     </item>
     
     <item>
-      <title>Growth</title>
-      <link>https://opensourcebusiness.community/tags/growth/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/growth/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Licensing</title>
       <link>https://opensourcebusiness.community/tags/licensing/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcebusiness.community/tags/licensing/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Open Source</title>
-      <link>https://opensourcebusiness.community/tags/open-source/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/open-source/</guid>
       <description></description>
       <content></content>
     </item>
@@ -119,61 +389,11 @@
     </item>
     
     <item>
-      <title>Economy</title>
-      <link>https://opensourcebusiness.community/tags/economy/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/economy/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Layoffs</title>
-      <link>https://opensourcebusiness.community/tags/layoffs/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/layoffs/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Foundations</title>
-      <link>https://opensourcebusiness.community/tags/foundations/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/foundations/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Kubernetes</title>
-      <link>https://opensourcebusiness.community/tags/kubernetes/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/kubernetes/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Federal</title>
       <link>https://opensourcebusiness.community/tags/federal/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcebusiness.community/tags/federal/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Sales</title>
-      <link>https://opensourcebusiness.community/tags/sales/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/sales/</guid>
       <description></description>
       <content></content>
     </item>
@@ -299,16 +519,6 @@
     </item>
     
     <item>
-      <title>Marketing</title>
-      <link>https://opensourcebusiness.community/tags/marketing/</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/marketing/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Messaging</title>
       <link>https://opensourcebusiness.community/tags/messaging/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
@@ -334,16 +544,6 @@
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://opensourcebusiness.community/tags/coss/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Metrics</title>
-      <link>https://opensourcebusiness.community/tags/metrics/</link>
-      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcebusiness.community/tags/metrics/</guid>
       <description></description>
       <content></content>
     </item>

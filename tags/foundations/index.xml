@@ -7,7 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023 Open Source Business Community</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/tags/foundations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opensourcebusiness.community/tags/foundations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Adoption, DevRel, and FOSS: Learning from Apache Cassandra - EP. 26 HOSB Podcast</title>
+      <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep26/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep26/</guid>
+      <description>Transcription In this episode:
+His time working in open source database community, including Apache Cassandra&amp;rsquo;s journey and upcoming developments. The role of evangelism and contributors in driving adoption and getting people to try your project. The challenges and mistakes companies make when commercializing open source, with lessons he has learned from his time in the database community. How new features are chosen based on his experience with Cassandra highlighting features such as transactions and open-source tool Guardrails?</description>
+      <content>&lt;h3 id=&#34;transcription&#34;&gt;Transcription &lt;/h3&gt;
+&lt;p&gt;In this episode:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;His time working in open source database community, including Apache Cassandra&amp;rsquo;s journey and upcoming developments.&lt;/li&gt;
+&lt;li&gt;The role of evangelism and contributors in driving adoption and getting people to try your project.&lt;/li&gt;
+&lt;li&gt;The challenges and mistakes companies make when commercializing open source, with lessons he has learned from his time in the database community.&lt;/li&gt;
+&lt;li&gt;How new features are chosen based on his experience with Cassandra highlighting features such as transactions and open-source tool Guardrails?&lt;/li&gt;
+&lt;li&gt;Does open source innovation slow down as products mature?&lt;/li&gt;
+&lt;li&gt;What is cloud-native anyways?  And what does it mean in the database context?&lt;/li&gt;
+&lt;li&gt;Building a diverse and gloabl team by building trust.&lt;/li&gt;
+&lt;li&gt;DevRel Best practices includeing, how do you measuring DevRel success.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
     <item>
       <title>From Mesos to Kubernetes: Talking Open Source with D2iQ Founder Ben Hindman</title>
       <link>https://opensourcebusiness.community/podcasts/hacking_open_source_business_ep14/</link>
