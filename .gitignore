@@ -1,1 +1,4 @@
 .DS_Store
+images/*.Identifier*
+images/Podcasts/*.Identifier*
+*.Zone.Identifier*
