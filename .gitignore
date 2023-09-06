@@ -1,4 +1,8 @@
 .DS_Store
+<<<<<<< HEAD
 images/*.Identifier*
 images/Podcasts/*.Identifier*
 *.Zone.Identifier*
+=======
+*Zone.Identifier*
+>>>>>>> main
