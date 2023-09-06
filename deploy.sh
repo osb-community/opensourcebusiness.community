@@ -9,5 +9,9 @@ git merge main
 hugo
 yes | cp -r public/* .
 git add -A
+git rm -f public/images/Podcasts/*Zone.Ident*
+git rm -f public/images/*Zone.Ident*
+git rm -f images/*Zone.Ident*
+git rm -f images/Podcasts/*Zone.Ident*
 git commit
 git push -u origin gh-pages
